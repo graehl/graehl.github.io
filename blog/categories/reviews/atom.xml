@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: reviews | Science & Fun - Jonathan Graehl]]></title>
+  <link href="http://graehl.org/blog/categories/reviews/atom.xml" rel="self"/>
+  <link href="http://graehl.org/"/>
+  <updated>2013-06-04T04:13:15-07:00</updated>
+  <id>http://graehl.org/</id>
+  <author>
+    <name><![CDATA[Jonathan Graehl]]></name>
+    <email><![CDATA[graehl@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[films]]></title>
+    <link href="http://graehl.org/blog/films-39739/"/>
+    <updated>2012-06-28T00:03:40-07:00</updated>
+    <id>http://graehl.org/blog/films-39739</id>
+    <content type="html"><![CDATA[<div>solid: <a href="http://www.imdb.com/title/tt0057869/">Band of Outsiders</a>
+</div>
+
+
+<div>poor: <a href="http://www.imdb.com/title/tt0435625/">The Descent</a>
+</div>
+
+
+<p>unwatchable: <a href="http://www.imdb.com/title/tt0228687/">Greedy Guts</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[films]]></title>
+    <link href="http://graehl.org/blog/films-55955/"/>
+    <updated>2012-06-24T21:29:52-07:00</updated>
+    <id>http://graehl.org/blog/films-55955</id>
+    <content type="html"><![CDATA[<p>good: <a href="http://www.imdb.com/title/tt0929632/">Precious</a><div>decent: <a href="http://www.imdb.com/title/tt0395169/">Hotel Rwanda</a>
+</div></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[films]]></title>
+    <link href="http://graehl.org/blog/films-18145/"/>
+    <updated>2012-06-19T22:17:45-07:00</updated>
+    <id>http://graehl.org/blog/films-18145</id>
+    <content type="html"><![CDATA[<p>good: <a href="http://www.imdb.com/title/tt1683526/">Detachment</a>, <a href="http://www.imdb.com/title/tt1410063/">The Flowers of War</a>, <a href="http://www.imdb.com/title/tt1417075/">In Darkness</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[films]]></title>
+    <link href="http://graehl.org/blog/films-17097/"/>
+    <updated>2012-05-28T16:40:41-07:00</updated>
+    <id>http://graehl.org/blog/films-17097</id>
+    <content type="html"><![CDATA[<p>good: <a href="http://www.imdb.com/title/tt1847731/">Tomboy</a><div>boring: <a href="http://www.imdb.com/title/tt0986233/">Hunger</a>
+</div></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[films]]></title>
+    <link href="http://graehl.org/blog/films-9544/"/>
+    <updated>2012-05-26T11:43:00-07:00</updated>
+    <id>http://graehl.org/blog/films-9544</id>
+    <content type="html"><![CDATA[<div>good: <a href="http://www.imdb.com/title/tt0446755/">The Painted Veil</a>
+</div>
+
+
+<div>ok: <a href="http://www.imdb.com/title/tt0995829/">XXY</a>
+</div>
+
+
+<div>
+<a href="http://www.imdb.com/title/tt0995829/"></a>boring: <a href="http://www.imdb.com/title/tt0382189/">My Summer of Love</a> (didn't finish)</div>
+
+]]></content>
+  </entry>
+  
+</feed>

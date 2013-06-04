@@ -4,7 +4,7 @@
   <title><![CDATA[Science & Fun - Jonathan Graehl]]></title>
   <link href="http://graehl.org/atom.xml" rel="self"/>
   <link href="http://graehl.org/"/>
-  <updated>2013-06-04T03:53:09-07:00</updated>
+  <updated>2013-06-04T04:13:15-07:00</updated>
   <id>http://graehl.org/</id>
   <author>
     <name><![CDATA[Jonathan Graehl]]></name>
@@ -14,14 +14,311 @@
 
   
   <entry>
+    <title type="html"><![CDATA[test post]]></title>
+    <link href="http://graehl.org/blog/test-post/"/>
+    <updated>2013-06-04T03:57:00-07:00</updated>
+    <id>http://graehl.org/blog/test-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Michael G. Williams Composes Film Music]]></title>
-    <link href="http://graehl.org/blog/2013/06/04/michael-g-williams-composes-film-music/"/>
+    <link href="http://graehl.org/blog/michael-g-williams-composes-film-music/"/>
     <updated>2013-06-04T03:35:00-07:00</updated>
-    <id>http://graehl.org/blog/2013/06/04/michael-g-williams-composes-film-music</id>
+    <id>http://graehl.org/blog/michael-g-williams-composes-film-music</id>
     <content type="html"><![CDATA[<p>Some <a href="http://www.michaelgwilliams.com/">great music</a>, in several
 genres. My second dad&rsquo;s second career. Clasically trained,
 ex-computer-scientist (and a very good one).  Versatile, musical,
 gifted composer. Killer piano chops, too.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[films ((tags: movies,reviews))]]></title>
+    <link href="http://graehl.org/blog/jonathan.graehl.org/"/>
+    <updated>2012-06-30T22:05:00-07:00</updated>
+    <id>http://graehl.org/blog/jonathan.graehl.org</id>
+    <content type="html"><![CDATA[]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[films]]></title>
+    <link href="http://graehl.org/blog/films-39739/"/>
+    <updated>2012-06-28T00:03:40-07:00</updated>
+    <id>http://graehl.org/blog/films-39739</id>
+    <content type="html"><![CDATA[<div>solid: <a href="http://www.imdb.com/title/tt0057869/">Band of Outsiders</a>
+</div>
+<div>poor: <a href="http://www.imdb.com/title/tt0435625/">The Descent</a>
+</div>unwatchable: <a href="http://www.imdb.com/title/tt0228687/">Greedy Guts</a>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[respect for the organ donor]]></title>
+    <link href="http://graehl.org/blog/respect-for-the-organ-donor/"/>
+    <updated>2012-06-26T16:05:00-07:00</updated>
+    <id>http://graehl.org/blog/respect-for-the-organ-donor</id>
+    <content type="html"><![CDATA[<p>
+</p>
+<p>This appears to be the parents kissing their terminally ill daughter before she donates organs to save at least two other lives. Beautiful pain.</p>
+
+<p></p>
+<div class="p_embed p_image_embed">
+<img alt="Donation" src="http://graehl.org/images/2012/06/26/respect-for-the-organ-donor/42442721-donation.jpeg">
+</div>
+
+<div>Promote effective medical research, e.g. stem cells to grow organs and extend healthy old age. The death of a good person, or even an average one, is a great loss.</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[aphorisms]]></title>
+    <link href="http://graehl.org/blog/aphorisms/"/>
+    <updated>2012-06-25T14:16:47-07:00</updated>
+    <id>http://graehl.org/blog/aphorisms</id>
+    <content type="html"><![CDATA[<div>From <a href="http://www-stat.stanford.edu/~cgates/PERSI/papers/thinking.pdf">The Problem of Thinking Too Much</a>:</div>
+<div> </div>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;"> <blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">“Other things being equal, finish the job that is</blockquote> <blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">nearest done.” </blockquote>
+</blockquote>
+<div> </div>
+<div> :)</div>
+<p></p>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;"> A famous physicist offered this</blockquote>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">advice: “Don’t waste time on obscure fine points</blockquote> <blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">that rarely occur.” </blockquote>
+</blockquote>
+<p></p> <div>But these are the easiest avenues to impress and annoy your more intellectual friends!</div>
+<div> </div>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;"> <blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">Decision theorist I. J. Good writes, “The</blockquote>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;"> older we become, the more important it is to use</blockquote>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;"> what we know rather than learn more.” </blockquote>
+</blockquote>
+<p></p>
+<div>Exploration vs exploitation. If all you do is self-improve, and then die, what for?</div>
+<div> </div>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;"> <blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">Galen offered this: “If a lot of smart people have thought</blockquote> <blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">about a problem [e.g., God’s existence, life on other</blockquote> <blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">planets] and disagree, then it can’t be decided.”</blockquote> </blockquote>
+<p></p>
+<div>Or smart people only selectively seek unbiased truth. Conformity, tribalism, and politics don&#8217;t merely influence, but contain our thinking.</div>
+<p></p>
+<div><a href="http://kruel.co/2012/06/24/interesting-quotes-part-1">via</a></div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[films]]></title>
+    <link href="http://graehl.org/blog/films-55955/"/>
+    <updated>2012-06-24T21:29:52-07:00</updated>
+    <id>http://graehl.org/blog/films-55955</id>
+    <content type="html"><![CDATA[good: <a href="http://www.imdb.com/title/tt0929632/">Precious</a><div>decent: <a href="http://www.imdb.com/title/tt0395169/">Hotel Rwanda</a>
+</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[films]]></title>
+    <link href="http://graehl.org/blog/films-18145/"/>
+    <updated>2012-06-19T22:17:45-07:00</updated>
+    <id>http://graehl.org/blog/films-18145</id>
+    <content type="html"><![CDATA[good: <a href="http://www.imdb.com/title/tt1683526/">Detachment</a>, <a href="http://www.imdb.com/title/tt1410063/">The Flowers of War</a>, <a href="http://www.imdb.com/title/tt1417075/">In Darkness</a>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[quitting time]]></title>
+    <link href="http://graehl.org/blog/quitting-time/"/>
+    <updated>2012-06-18T12:14:00-07:00</updated>
+    <id>http://graehl.org/blog/quitting-time</id>
+    <content type="html"><![CDATA[<div>A meditation on despair: </div>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">
+<p style="font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255); margin-bottom: 0.2in;"> Say you yell every day at an/your eight year old girl for sloppy homework, admittedly a terrible thing to do but not uncommon, and eventually she thinks, &#8220;I&#8217;m terrible at everything&#8221; and gives up, so the standard interpretation of this is that she has lost self-confidence, she&#8217;s been demoralized, and case by case you may be right, but there&#8217;s another possibility which you should consider: she chooses to focus on &#8220;I&#8217;m terrible at everything&#8221; <i>so that</i> she can give up.  &#8220;If I agree to hate myself I only need a 60?  I&#8217;ll be done in 10 minutes. &#8220; </p>
+<p></p> It is precisely at this instant that a parent fails or succeeds, i.e. fails: do they teach the kid to prefer (find reinforcement in) the drudgery of boring, difficult work with little daily evidence of improvement, or do they teach the kid to prefer (find reinforcement in) about 20 minutes of sobbing hysterically and then off to Facebook and a sandwich?  Each human being is only able to learn to prefer one of those at a time.  Which one does the parent incentivize?<p></p> If you read this as laziness you have utterly missed the point. It&#8217;s not laziness, because you&#8217;re still working hard, but you are working purposelessly on purpose. The goal of your work is to be done the work, not to be better at work.<p></p> For a great many people this leads to an unconscious, default hierarchy in the mind, I&#8217;m not an epidemiologist but you got it in you sometime between the ages of 5 and 10: <br><p style="font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255); margin-bottom: 0.2in;"> <br></p>
+<p align="center" style="font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255); margin-bottom: 0.2in;"><doing awesome> <br></doing></p>
+<p align="center" style="font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255); margin-bottom: 0.2in;"> is better than <br></p>
+<p align="center" style="font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255); margin-bottom: 0.2in;"><feeling terrible about yourself> <br></feeling></p> <p align="center" style="font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255); margin-bottom: 0.2in;">is better than <br></p>
+<p align="center" style="font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255); margin-bottom: 0.2in;"> <the mental work of change></the></p>
+<p style="font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255); margin-bottom: 0.2in;"><br></p>
+<p style="font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255); margin-bottom: 0.2in;"> You should memorize this, it is running your life.  &#8220;I&#8217;m constantly thinking about ways to improve myself.&#8221;  No, you&#8217;re gunning the engine while you&#8217;re up on blocks.  Obsessing and ruminating is a skill at which we are all tremendously accomplished, and admittedly that feels like mental work because it&#8217;s exhausting and unrewarding, but you can no more ruminate your way through a life crisis than a differential equation.  So the parents unknowingly teach you to opt for <b>, and after a few years of childhood insecurity, you&#8217;ll choose the Blue Pill begin the dreaming: someday and someplace you&#8217;ll show someone how great you somehow are.  And after a few months with that someone they will eventually turn to you, look deep into your eyes, and say, &#8220;look, I don&#8217;t have a swimming pool, but if I did I&#8217;d drown myself in it.  Holy Christ are you toxic.&#8221;</b></p>
+<p></p> &#8220;Well, my parents were really strict, they made me&#8211;&#8221; </blockquote>
+<div>
+<a href="http://thelastpsychiatrist.com/2012/06/amy_schumer_offers_you_a_look.html">via</a> </div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[N=1 sunlight, even through glass (UVA), severely ages skin]]></title>
+    <link href="http://graehl.org/blog/n1-sunlight-even-through-glass-uva-severely-a/"/>
+    <updated>2012-06-06T10:52:00-07:00</updated>
+    <id>http://graehl.org/blog/n1-sunlight-even-through-glass-uva-severely-a</id>
+    <content type="html"><![CDATA[<p></p>
+<div class="p_embed p_image_embed">
+<img alt="Truck-drivin-man" src="http://graehl.org/images/2012/06/06/n1-sunlight-even-through-glass-uva-severely-a/41858474-truck-drivin-man.jpg">
+</div>
+
+<p> </p>
+<div><a href="http://www.nejm.org/doi/full/10.1056/NEJMicm1104059">http://www.nejm.org/doi/full/10.1056/NEJMicm1104059</a></div>
+<p></p>
+<div>This man received hours of left-side-of-face sunlight a day for years, driving his delivery truck. This is probably why the left side of his face (right in the picture, obviously) now looks many years older. He&#8217;s 69, though.</div>
+<p>Sunlight has UVA (higher frequency, deeper penetrating) and UVB rays. UVB is completely blocked by thin glass (your car window).</p>
+<div>It&#8217;s possible that he had his window rolled up most of the time, and that this demonstrates that UVA alone can age skin.</div>
+<p></p>
+<div>UVA is already known to cause skin cancer (including melanoma), even though it&#8217;s primarily UVB that causes sunburn (and long term tanning). UVA causes a different short term tanning response and is used in tanning beds.</div>
+<p></p>
+<div>
+<a href="http://en.wikipedia.org/wiki/Sunscreen">Wikipedia</a> on sunscreen:</div>
+<p></p>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: #cccccc; border-left-style: solid; padding-left: 1ex;"><span style="font-family: sans-serif; font-size: 12.499999046325684px; line-height: 19.194442749023438px; background-color: #ffffff;">A set of final U.S. FDA rules going into effect for summer 2012 defines the phrase &#8220;broad spectrum&#8221; as having a UVA SPF at least as high as the UVB SPF.</span></blockquote>
+<p></p>
+<div>Before you go crazy with sunscreen, be aware that you need Vitamin D to avoid depression and other harms. I recommend 4000 IU/day in the morning (well in excess of the RDA), although ideally you should have your blood levels tested, as too much and too little are both bad (but too little is worse). </div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[modern art conspiracy]]></title>
+    <link href="http://graehl.org/blog/modern-art-conspiracy/"/>
+    <updated>2012-05-31T11:57:59-07:00</updated>
+    <id>http://graehl.org/blog/modern-art-conspiracy</id>
+    <content type="html"><![CDATA[<div>CIA&#8217;s International Organisations Division promoted U.S. modern art, presumably so we&#8217;d seem cooler than the commies.</div>
+<div> </div>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;"> <blockquote style="margin: 0px 0px 0px 30px; padding: 10px 0px 0px 20px; font-size: 14px; line-height: 20.46666717529297px; color: rgb(51,51,51); font-family: Georgia,serif; text-align: left; background-color: rgb(224,224,224);">&#8220;We wanted to unite all the people who were writers, who were musicians, who were artists, to demonstrate that the West and the United States was devoted to freedom of expression and to intellectual achievement, without any rigid barriers as to what you must write, and what you must say, and what you must do, and what you must paint, which was what was going on in the Soviet Union. I think it was the most important division that the agency had, and I think that it played an enormous role in the Cold War.&#8221; </blockquote> <blockquote style="margin: 0px 0px 0px 30px; padding: 10px 0px 0px 20px; font-size: 14px; line-height: 20.46666717529297px; color: rgb(51,51,51); font-family: Georgia,serif; text-align: left; background-color: rgb(224,224,224);">He confirmed that his division had acted secretly because of the public hostility to the avant-garde: &#8220;It was very difficult to get Congress to go along with some of the things we wanted to do - send art abroad, send symphonies abroad, publish magazines abroad. That&#8217;s one of the reasons it had to be done covertly. It had to be a secret. In order to encourage openness we had to be secret.&#8221; </blockquote> <blockquote style="margin: 0px 0px 0px 30px; padding: 10px 0px 0px 20px; font-size: 14px; line-height: 20.46666717529297px; color: rgb(51,51,51); font-family: Georgia,serif; text-align: left; background-color: rgb(224,224,224);">If this meant playing pope to this century&#8217;s Michelangelos, well, all the better: &#8220;It takes a pope or somebody with a lot of money to recognise art and to support it,&#8221; Mr Braden said. &#8220;And after many centuries people say, &#8216;Oh look! the Sistine Chapel, the most beautiful creation on Earth!&#8217; It&#8217;s a problem that civilisation has faced ever since the first artist and the first millionaire or pope who supported him. And yet if it hadn&#8217;t been for the multi-millionaires or the popes, we wouldn&#8217;t have had the art.&#8221; </blockquote> </blockquote>
+<p></p>
+<div><a href="http://www.independent.co.uk/news/world/modern-art-was-cia-weapon-1578808.html">via</a></div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[films]]></title>
+    <link href="http://graehl.org/blog/films-17097/"/>
+    <updated>2012-05-28T16:40:41-07:00</updated>
+    <id>http://graehl.org/blog/films-17097</id>
+    <content type="html"><![CDATA[good: <a href="http://www.imdb.com/title/tt1847731/">Tomboy</a><div>boring: <a href="http://www.imdb.com/title/tt0986233/">Hunger</a>
+</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[anti- alternative milk]]></title>
+    <link href="http://graehl.org/blog/anti-alternative-milk/"/>
+    <updated>2012-05-26T13:36:25-07:00</updated>
+    <id>http://graehl.org/blog/anti-alternative-milk</id>
+    <content type="html"><![CDATA[I&#8217;ve had some raw milk from <a href="http://www.yelp.com/biz/sprouts-farmers-market-culver-city">Sprouts</a> and can&#8217;t get excited enough about it to pay 3x (for whole milk) and possibly risk severe food poisoning (the chance isn&#8217;t high, but the severity can be).<p></p>
+<div>
+<a href="http://www.kitchenstewardship.com/2010/06/23/the-real-story-of-homogenized-milk-powdered-milk-skim-milk-and-oxidized-cholesterol/">This woman&#8217;s investigation</a> deflates many pro-raw claims (her method is to ask experts and industry representatives, which seems solid):</div> <p></p>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">
+<blockquote style="padding: 0px 0px 0px 10px; margin: 0px 30px 1.5em; font-family: Georgia,Times New Roman,Times,serif; color: rgb(85,85,85); border-left-width: 1px; border-left-style: solid; border-left-color: rgb(170,170,170); font-size: 14px; line-height: 23px; text-align: left; background-color: rgb(255,255,255);"> <p style="padding: 0px; margin: 0px 0px 1.5em;">Homogenization is done by forcing milk through a small geometry valve at very high pressures (1500-2500 psi).  The effect of this treatment is to break the natural fat globule (average size ~10 micrometers) into  much smaller fat globules (average size  </p>
+<p style="padding: 0px; margin: 0px 0px 1.5em;">Within the first 10-20 seconds after homogenization, proteins and segments of the original membrane form a new membrane on the surface of the smaller fat globules.  The addition of the protein to the surface of the fat globules and the reduction in the size of the globules results in the reduction in the ability of the globules to float to the top of the milk.  During this process, the milkfat is not exposed to air as the process is done in an air tight system containing only milk.  Milkfat is made up of 98% triglycerides, which are extremely stable to changes during processing.  The only way that milk will spoil faster after homogenization is if the homogenizing system is not properly cleaned and sanitized.</p> <p style="padding: 0px; margin: 0px 0px 1.5em;">Another factor that may be thrown out is the xanthine oxidase.  Dr. K. Oster proposed a theory in 1971 that xanthine oxidase released from the milk fat globule membrane during homogenization was a contributor to atherosclerosis.  To this end, I would have you read the <a href="http://www.ajcn.org/cgi/content/abstract/38/2/327" rel="nofollow" target="_blank" style="padding: 0px; margin: 0px; color: rgb(51,51,51);">following review article</a>.</p> <p style="padding: 0px; margin: 0px 0px 1.5em;">There is not much if any support for this theory but a lot of people are still using it to scare customers into paying higher prices for cream-line milk.</p>
+</blockquote>
+<p style="padding: 0px; margin: 0px 0px 1.5em; color: rgb(51,51,51); font-family: Georgia,Times New Roman,Times,serif; font-size: 14px; line-height: 23px; text-align: left; background-color: rgb(255,255,255);"> Dr. Partridge drinks homogenized store milk himself, although he said he has to take the jugs from the back to avoid the “light oxidized flavor that is prevalent in milk stored under direct fluorescent lighting.” This is not a man who drinks milk without consciousness.</p> </blockquote>
+<div>Her thinking seems high quality (although she&#8217;s in-your-face Christian). Recommended. </div>
+<p></p>
+<div>If there&#8217;s anything scary in your cow&#8217;s diet (I wish I could get grass-fed cow milk easily), it will likely be in the fats, she points out. So cheap skim milk mixed with high quality cream makes sense.</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[lithium helps you get up in the morning]]></title>
+    <link href="http://graehl.org/blog/lithium-helps-you-get-up-in-the-morning/"/>
+    <updated>2012-05-26T12:47:53-07:00</updated>
+    <id>http://graehl.org/blog/lithium-helps-you-get-up-in-the-morning</id>
+    <content type="html"><![CDATA[<a href="http://www.readability.com/read?url=http%3A//www.psmag.com/health/researchers-crack-codes-for-lithium-electroshock-42273/">This article</a> claims as advance in the understanding of why <a href="http://en.wikipedia.org/wiki/Lithium_pharmacology">lithium helps protect the brain</a>. It turns out that it&#8217;s at least partially due to forcing sleep. Insufficient sleep is extremely harmful:<p></p>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">
+<p style="color: rgb(51,51,51); font-family: Droid Serif,Droid Sans,sans-serif; font-size: 16px; line-height: 22px; margin: 0px; padding: 0px 0px 15px; background-color: rgb(255,255,255);"> by blocking the enzyme known as glycogen synthase kinase, or GSK3, lithium boosts the master clock’s strength threefold.</p>
+<p style="color: rgb(51,51,51); font-family: Droid Serif,Droid Sans,sans-serif; font-size: 16px; line-height: 22px; margin: 0px; padding: 0px 0px 15px; background-color: rgb(255,255,255);"> Understanding this mechanism, Meng says, companies are already developing drugs that can block GSK3, but which would be unlikely to trigger lithium’s unwelcome effects such as nausea, dry mouth, tremor, weakness and weight gain.</p> </blockquote>
+<p></p>
+<div>Now that a mechanism is known, perhaps new patentable synthetics that target just that mechanism, but with slightly different side effects, can provide a $billions cash cow. Lithium was probably underprescribed by the medical industry due to lack of financial incentive.</div> <p></p>
+<div>I&#8217;d started low dose (1mg/day) lithium on the basis of a <a href="http://webcache.googleusercontent.com/search?q=cache:YNH35x005wAJ:www.medicineispersonal.com/contest/1st+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=us">literature review by Scott Siskind</a> on <a href="http://lesswrong.com/lw/a60/quantified_health_prize_results_announced/">LessWrong</a> and couldn&#8217;t tell if it was only another nice multivitamin-like placebo, but I may have been sleeping and waking slightly better. Side effects were completely nonexistent for me at 1mg/day. An ordinary diet already supplies .5-3mg/day, though:</div> <p></p>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;"><span style="font-family: Arial,Helvetica,sans-serif; line-height: 19px; text-align: justify; background-color: rgb(247,247,248);">In 1985, the EPA, estimated that the daily lithium consumption for a 154 lb. adult ranges from 650 to 3,100 micrograms</span></blockquote> <p></p>
+<div>Lithium definitely decreases suicides. That&#8217;s something. There are other claims of decent strength: <a href="http://evolutionarypsychiatry.blogspot.com/2010/07/lithium-and-inflammation.html">http://evolutionarypsychiatry.blogspot.com/2010/07/lithium-and-inflammation.html</a> and <a href="http://evolutionarypsychiatry.blogspot.com/2011/02/lithium-and-longevity.html">http://evolutionarypsychiatry.blogspot.com/2011/02/lithium-and-longevity.html</a>.</div> <p></p>
+<div>It&#8217;s suspicious to me when a medicine does so many seemingly different good things. But since the mechanism at least involves sleep, which is central, it&#8217;s plausible. Also, there are other medicines (aspirin) that really do have several good effects (I assume because excess inflammation can be harmful in many different ways). It&#8217;s suspicious to me when something has many good effects (speeds/slows several different natural chemical reactions) and no bad effects. I&#8217;d expect most tweaks to be only situationally good, or else it&#8217;s just an accident that evolution hasn&#8217;t stumbled upon and widely disseminated the capability to produce something analogous to the drug.</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[films]]></title>
+    <link href="http://graehl.org/blog/films-9544/"/>
+    <updated>2012-05-26T11:43:00-07:00</updated>
+    <id>http://graehl.org/blog/films-9544</id>
+    <content type="html"><![CDATA[<div>good: <a href="http://www.imdb.com/title/tt0446755/">The Painted Veil</a>
+</div>
+<div>ok: <a href="http://www.imdb.com/title/tt0995829/">XXY</a>
+</div>
+<div>
+<a href="http://www.imdb.com/title/tt0995829/"></a>boring: <a href="http://www.imdb.com/title/tt0382189/">My Summer of Love</a> (didn&#8217;t finish)</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[jordan]]></title>
+    <link href="http://graehl.org/blog/jordan/"/>
+    <updated>2012-05-24T21:55:00-07:00</updated>
+    <id>http://graehl.org/blog/jordan</id>
+    <content type="html"><![CDATA[<p></p>
+<div class="p_embed p_image_embed">
+<img alt="Aaa31" src="http://graehl.org/images/2012/05/24/jordan/41433844-aaa31.jpg">
+</div>
+
+<p>Did basketball have a doping era? Talent + obsessive work ethic will get you a long way *if* you have enhanced physical recovery. Maybe that&#8217;s sometimes purely genetic. Kobe looked pretty buff for a few years post-Shaq (but not unbelievably so). Jordan was never huge but there&#8217;s more to chemically enhanced performance than bodybuilder physique (which hardly comes without specifically trying).</p>
+<p></p>
+<div>Why would an athlete *not* dope, especially if they felt it was long-term healthy and unlikely to be detected?</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[pro-monounsaturated anti-saturated study]]></title>
+    <link href="http://graehl.org/blog/pro-monounsaturated-anti-saturated-study/"/>
+    <updated>2012-05-21T09:57:15-07:00</updated>
+    <id>http://graehl.org/blog/pro-monounsaturated-anti-saturated-study</id>
+    <content type="html"><![CDATA[Citing a brain-health study cited in <a href="http://www.boston.com/dailydose/2012/05/18/tweaking-dietary-fat-intake-could-help-slow-brain-aging-study-suggests/OO7tmvxhB2E8V0algT7DlL/story.html">this article</a>, they claim, backed by IQ tests, that monounsaturated is better than either polyunsaturated and saturated in older women. Obviously it&#8217;s correlation only, and based on diet survey responses, not direct measurement.<p></p>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;"><span style="font-family: georgia; font-size: 15px; line-height: 21px; text-align: left; background-color: rgb(255,255,255);">women who reported the highest saturated fat intake also had, on average, the worst scores on reasoning and memory tests. Those with the highest monounsaturated fat intake had the best cognition test scores on average, compared with those who ate mostly polyunsaturated fats</span></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Kitty Genovese - martyr for psychology]]></title>
+    <link href="http://graehl.org/blog/kitty-genovese-martyr-for-psychology/"/>
+    <updated>2012-05-11T14:52:45-07:00</updated>
+    <id>http://graehl.org/blog/kitty-genovese-martyr-for-psychology</id>
+    <content type="html"><![CDATA[From <a href="http://blog.sethroberts.net/2012/05/10/a-chinese-bystander-inaction-story/">Seth Roberts</a>:<p></p>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;"> <p style="font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255);">Long after the famous <a href="http://en.wikipedia.org/wiki/Murder_of_Kitty_Genovese" target="_blank" style="color: rgb(17,85,204);">Kitty Genovese story</a> — supposedly many people watched her being murdered without doing anything — doubt was cast on its accuracy. In the meantime, John Darley and  Bibb Latane, two professors of psychology, it as the starting point for a series of experiments on what they called <a href="http://en.wikipedia.org/wiki/Bystander_effect" target="_blank" style="color: rgb(17,85,204);">the bystander effect</a> — the more bystanders, the less likely that each one will help. They concluded there was “diffusion of responsibility” — the more people that witness something, the less each witness feels responsible for doing something.</p> </blockquote>
+<div>(linked Wikipedia article has a <a href="http://en.wikipedia.org/wiki/Murder_of_Kitty_Genovese#Psychological_research_prompted_by_the_murder">section</a> about how the psych textbook version isn&#8217;t factual, although the bystander effect is of course real and has since been rigorously demonstrated). </div> <p></p>
+<div>And then, two fascinating anecdotes (Seth jumps quickly from anecdote to hypothesis, and I love him for it):</div>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;"> <p style="font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255);">In China the problem is much worse. A few years ago a woman was hit by a car. A second car stopped to help her. The woman told the police that the second driver had hit her. The second driver was furious, gave many interviews, and eventually a witness was found who said it was the driver, not the injured woman, who was telling the truth. Someone I spoke to attributed her behavior to the need to pay hospital bills. The driver who hit her would never be caught, she reasoned. Maybe the second driver could be forced to pay.</p> </blockquote>
+<div>I remember seeing such a video. Horrifying. It was <a href="http://www.newyorker.com/online/blogs/evanosnos/2011/10/chinas-bystander-effect.html">this hit and run</a>; the video is no longer available.</div> <blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">
+<p style="font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255);"> My Chinese tutor, who is Korean, told me a story that illustrates the depth of Chinese bystander inaction and suggests another reason for it. A friend of hers was visiting from Korea. When this friend was in Wangjing (in the Chaoyang district of Beijing), she saw a person lying on a busy street, bleeding but still alive. Apparently the bleeding person had been hit by a car. Three hours later, the friend returned — and the accident victim was still there! Now dead. So, with difficulty — she doesn’t speak Chinese — she called the police.</p> <p style="font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255);"><strong>The police treated her as a suspect.</strong> She was forced to come to the police station five times, for hours each time.</p> <p style="font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255);">What a deterrent to calling the police! I cannot believe the police were so stupid as to consider a Korean tourist on foot who calls the police a serious suspect in the death of someone lying in the middle of traffic. I believe that by causing her a lot of trouble, they wanted to send a message: <strong>Leave us alone</strong>. The fewer calls they get, the less work they have to do. No wonder everyone ignored the bleeding victim.</p> </blockquote>
+<div>I agree with the &#8220;leave us alone&#8221; interpretation, but also, the person at the scene really is 1000s of times more likely to be the perpetrator than some random person from the general populace, and police have never seemed to mind getting a thrill out of an attempt to intimidate a confession out of someone who has only a 1% chance of being guilty - if they win, then they were heroic. The reason it&#8217;s usually wrong to single out one person for scrutiny without a solid line of detection pointing to them from physical evidence is that the absolute chance of their guilt is still supremely low. Being at the scene should nearly be evidence *against* guilt (if enough time has passed). See also <a href="http://lesswrong.com/lw/19m/privileging_the_hypothesis/">Privileging the Hypothesis</a> and base rate neglect.</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[brushes with celebrity]]></title>
+    <link href="http://graehl.org/blog/brushes-with-celebrity/"/>
+    <updated>2012-05-07T12:31:16-07:00</updated>
+    <id>http://graehl.org/blog/brushes-with-celebrity</id>
+    <content type="html"><![CDATA[<a href="http://www.overcomingbias.com/2012/05/illusory-power-transference.html">Robin Hanson describes research</a> about how a quick glad-handing by a CEO-figure makes people act boldly - with more presumed status:<p></p>
+<div>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;"><span style="color: rgb(53,53,55); font-family: Arial,Helvetica,sans-serif; font-size: 15px; line-height: 22px; background-color: rgb(255,255,255);">“Illusory Power Transference” is the academic name for feeling powerful due to a superficial connection to a powerful person, such as having once been in the same room</span></blockquote> <div>&#8230;</div>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">
+<span style="background-color: rgb(255,255,255); color: rgb(53,53,55); font-family: Arial,Helvetica,sans-serif; font-size: 15px; line-height: 22px;">Otherwise puzzling behavior can be explained by strong evolved desires to affiliate with high status (i.e., impressive or powerful) people. Apparently even very weak affiliations can make big differences. This can help explain our preferring live art and sport events, and our uncritical relations to academics, real estate agents, investment advisors, doctors, lawyers, etc.</span> </blockquote> <p></p>
+<div>People often act as though everyone knows about every social interaction they have:</div>
+<p></p>
+<div>1. after recycling, or being told to buy a &#8216;green&#8217; product, people feel sufficiently virtuous that they&#8217;ll more likely turn down a panhandler later, effectively believing that their virtuous acts are generally known.</div> <p></p>
+<div>2. after being turned down by one woman, a man will feel less confident approaching the next, even in a different venue.</div>
+<p></p>
+<div>In a small tribe, it would make sense to expect every interaction to eventually count (via reputation) with everyone. But celebrity is asymmetric. It&#8217;s a millions to one (or for a CEO, thousands to one) relationship. There&#8217;s little chance that the politician&#8217;s handshake and warm words can be relied upon for anything.</div> <p></p>
+<div>I think that the confidence (or lack of it) that carries over between independent encounters (without any small-town-gossip connection) still has power. When someone acts as though they&#8217;ll be respected, they more often are. Most people can&#8217;t fake this expectation. So, in a way, the information that George got a smile from the CEO does spread, dilutely.</div> </div>
+<p></p>
+<div>If you&#8217;re rational about it, you&#8217;ll make sure your high-status affiliations are actually known. Good luck not sounding like a self-promoting name-dropper, though - and there&#8217;s nothing we despise more than obvious over-reaching status-gamers.</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[films]]></title>
+    <link href="http://graehl.org/blog/films-95601/"/>
+    <updated>2012-05-06T13:31:40-07:00</updated>
+    <id>http://graehl.org/blog/films-95601</id>
+    <content type="html"><![CDATA[good: <a href="http://www.imdb.com/title/tt0369702/" target="_blank">Mar Adentro</a>, <a href="http://www.imdb.com/title/tt1232776/">Fish Tank</a><div>ok: <a href="http://www.imdb.com/title/tt1185836/" target="_blank">Adam</a>
+</div> <div>bad: <a href="http://www.imdb.com/title/tt1723811/">Shame</a>
+</div>
 ]]></content>
   </entry>
   
