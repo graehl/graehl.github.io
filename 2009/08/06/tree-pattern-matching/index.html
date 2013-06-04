@@ -1,0 +1,158 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Tree Pattern Matching - Science & Fun - Jonathan Graehl</title>
+	<meta name="author" content="Jonathan Graehl">
+
+	
+	<meta name="description" content="Fast Translation Rule Matching for Syntax-based Statistical Machine Translation in EMNLP09 (Zhang et. al) gives a practical method for top-down &hellip;">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link href="/atom.xml" rel="alternate" title="Science & Fun - Jonathan Graehl" type="application/atom+xml">
+	<link rel="canonical" href="">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	
+</head>
+
+<body>
+	<header id="header" class="inner"><h1><a href="/">Science & Fun - Jonathan Graehl</a></h1>
+<nav id="main-nav"><ul class="main">
+	<li><a href="/">Blog</a></li>
+	<li><a href="/blog/archives">Archives</a></li>
+</ul>
+</nav>
+<nav id="mobile-nav">
+	<div class="alignleft menu">
+		<a class="button">Menu</a>
+		<div class="container"><ul class="main">
+	<li><a href="/">Blog</a></li>
+	<li><a href="/blog/archives">Archives</a></li>
+</ul>
+</div>
+	</div>
+	<div class="alignright search">
+		<a class="button"></a>
+		<div class="container">
+			<form action="http://google.com/search" method="get">
+				<input type="text" name="q" results="0">
+				<input type="hidden" name="q" value="site:graehl.org">
+			</form>
+		</div>
+	</div>
+</nav>
+<nav id="sub-nav" class="alignright">
+	<div class="social">
+		
+		
+		
+		<a class="twitter" href="http://twitter.com/graehl" title="Twitter">Twitter</a>
+		
+		
+		<a class="github" href="https://github.com/graehl" title="GitHub">GitHub</a>
+		
+    
+		
+		
+		
+		
+		
+		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
+		
+	</div>
+	<form class="search" action="http://google.com/search" method="get">
+		<input class="alignright" type="text" name="q" results="0">
+		<input type="hidden" name="q" value="site:graehl.org">
+	</form>
+</nav>
+
+</header>
+	
+		
+	
+	<div id="content" class="inner"><article class="post">
+	<h2 class="title">Tree Pattern Matching</h2>
+	<div class="entry-content"><p><a href="http://aclweb.org/anthology-new/D/D09/D09-1108.pdf">Fast Translation Rule Matching for Syntax-based Statistical Machine Translation</a><br> in EMNLP09 (Zhang et. al) gives a practical method for top-down enumerating tree pattern matches against the root of a forest (compact regular set of trees).  This problem arises in MT when you first context-free-parse your source material, and then transform its syntax tree into another language - since parsers aren&#8217;t perfect, you translate all the likely parses rather than just the most likely, and pick the most likely and fluent output.  Apparently the baseline pattern matching methods used are <em>really</em> terrible:</p>
+<ol>
+<li>EITHER: Up to the largest rule size/shape iterate over the (exponential in that size) many forest-topping label sequences, checking each against a rule label sequence hash. </li>
+<li>OR: Iterate over all the rules, checking each one independently against the forest.  </li>
+</ol>
+<p>They give an improvement to the latter approach: if you&#8217;ve already matched the first 3 levels of a 4-height rule before, don&#8217;t repeat the work.  (The <a href="http://aclweb.org/anthology-new/D/D09/D09-1108.pdf">diagrams</a> are pretty good; refer to them if you want to make sense of what follows). This is 20 times faster, and makes their overall MT system twice as fast.  If you&#8217;re actually using one of the above horrible baseline approaches, you would do well to emulate this paper.  I suspect that people are in practice using a hybrid of the two: exhaustively unpack the forest for a set of (small) top-of-tree-shapes e.g. x(x(x,x),x), retrieving potential rule sets by labels-hash, and then iterating over the resulting subset.  Unfortunately, they only compare their performance against the two (stupid) extremes.  I&#8217;ll also note that it always makes sense to (reversibly) binarize both the forest and the tree patterns in the same way, if you haven&#8217;t already, e.g. A(B,C,D) binarized would be: A(B,C_D(C,D)) where C_D is a virtual nonterminal that only appears in the context C_D(C(&#8230;),D(&#8230;)).</p>
+<p></p>  The avoidance of (some) repeated work is accomplished by 1) organizing tree patterns (rule left hand sides) to reflect these shared upper levels and 2) performing exhaustive top-down breadth-first expansion of pairs of (pattern state, forest states - one for each leaf in pattern state), where the forest states tuple may grow exponentially with depth.  Since we&#8217;re interested in the subforests aligned to the leaves of our tree pattern, we would take the forest states for pattern states corresponding to complete patterns, and perform some computation (MT in this case) on the subforests + pattern - we don&#8217;t just want the set of matching tree patterns.<p></p>  This paper could have been clearer and shorter. The pseudocode has quirks.  It also seems to cite without reading: <a href="http://www.isi.edu/natural-language/projects/rewrite/decoding-cl.ps">Decoding Complexity in Word-Replacement Translation Models</a> (Knight 1999) does <em>not</em> show MT in general is NP-hard, only that IBM Model 1 (one of the simplest word to word translation models, with very free word reordering) is. MT based on parsing, without global features, is actually polynomial (albeit high degree if you have e.g. target 5gram probabilities).<p></p>  Even though the forests arising from a parser will have the same root label for all trees in a state (e.g. NP covering words 1-2 has only NPs), I prefer the <a href="http://en.wikipedia.org/wiki/Regular_tree_grammar">regular tree grammar</a> formalism for a set of trees, where a grammar state can have production with different tree roots.  This paper handles the case where each state has a single unique tree root, since that&#8217;s what their parser gives them.  A general RTG production of rank k would need to be unpacked into N^k productions to achieve this, where N is the size of the tree label alphabet.  It&#8217;s better to modify your algorithm to use (root-label,forest-state) tuples instead of just (forest-state) whenever you want to look at only same-root trees.  I&#8217;m using &#8220;state&#8221; instead of the usual &#8220;nonterminal&#8221; to avoid confusion with the labels of the parse tree (in parsing, NP is a called a &#8220;nonterminal&#8221; of the tree NP(NN(dog))) since it&#8217;s not a &#8220;terminal&#8221;, or leaf).<p></p>  Everything in the paper is called &#8220;hyper-X&#8221;.  There&#8217;s even a section called &#8220;hyper-node, hyper-path and hyper-tree&#8221;.  I appreciate the enthusiasm, but these are not great names, especially since they&#8217;re (misleadingly) suggestive of vertex/node, hyperpath, and hypertree in hypergraphs.  The forest is also given as a set of &#8220;hyper-edges&#8221; (without definition, but obviously they mean a directed B-hyperedges with ordered tails).<p></p>  Obviously if the parse forest has probabilities attached to productions, you will have accumulated those in the process of finding a particular match.<p></p>  The authors could have cited, for the related problem of matching a set of tree patterns against a single tree, <a href="http://portal.acm.org/citation.cfm?id=322290.322295">Pattern Matching in Trees</a> (Hoffman and O&#8217;Donnell 1982).  That work deals with ranked tree labels (doesn&#8217;t provide a way to say &#8220;subtree rooted in a NP of any arity&#8221;; you&#8217;d have to have NP(x) NP(x,x) NP(x,x,x) &#8230;), but that&#8217;s always a trivial change.  As far as I can tell, it&#8217;s impossible to use the top-down matching scheme in that paper efficiently on forests.<p></p>  Hoffman and O&#8217;Donnell provide a helpful framework: the (immediate) subsumption graph of tree patterns.  This is a directed acyclic graph with edges from a to b if a&gt;b (a&gt;b (&#8220;subsumes&#8221;) iff \forall f a(f) =&gt; b(f)), where I&#8217;ve used a and b as predicates over trees or tree-sets f.  Immediate just means that only the necessary edges are kept (subsumption is transitive).  In the immediate subsumption graph pictured below, v means a variable, i.e. label can be anything:<br> <div class="p_embed p_image_embed">
+<img alt="Subsumption" src="/images/2009/08/06/tree-pattern-matching/1216125-subsumption.png">
+</div>
+<br> Top-down matching procedures that report each assignment of subforests to tree pattern variables exactly once, will need to turn the subsumption graph into a tree.  Most likely you&#8217;ll want to do this in advance.  I&#8217;ve done this in a depth-first leftmost-expansion fashion by turning each tree pattern into a string, and combining the results into a trie with branching choice of &#8220;where to expand next&#8221;, implicitly giving a tree subgraph of the immediate subsumption graph (unpublished work).  Since I allow tree labels to have variable arity, I separate the choice of a label and its arity (the latter may never be specified).  My algorithm for matching this subsumption subgraph against a forest is the same as Zhang et. al, except that they&#8217;re breadth first, and they (unnecessarily) expand the whole level at once.  That is, their subsumption subgraph is not immediate.  They lose some sharing as a result, although it would be easy to fix this.  You can devise pattern sets that make a particular subsumption graph-&gt;tree mapping perform badly, and I don&#8217;t have any intuition as to whether theirs or mine will perform better on particular sets (e.g. MT rules containing most naturally occurring tree fragments up to a fixed size or depth).<p></p>  The lost sharing from top-down matching any particular subsumption tree can be avoided entirely with bottom-up matching.  Hoffman+O&#8217;Donnell give a method for building a bottom-up deterministic tree recognizer, which is certainly optimal with respect to sharing and probably time if you can afford to precompute and store the (possibly exponential) monster.  Bottom up tree recognizers can match against forests beautifully, since <a href="http://en.wikipedia.org/wiki/Regular_tree_grammar">regular tree grammars</a> are closed under intersection.  Unlike top-down matching, the result of bottom-up matching would just be a set of rule (fragments) for each forest node.  To get the subforests, you&#8217;d have to traverse top-down (this should be pretty fast, since you&#8217;re constrained by a specific tree pattern).  In a future post, I&#8217;ll describe a bottom-up patterns against forest (or tree) matching that doesn&#8217;t explicitly determinize beforehand.  I&#8217;ll also note that the type of sharing you get in bottom up matching is avoiding work in repeatedly matching subtrees that are contained in different rules.  On the other hand, subsumption avoids repeated work in matching shared <em>tops</em> of trees.  That is, a pattern that subsumes another is always larger (turning some leaves into full subtrees).<p></p>  Also, although I haven&#8217;t yet read it, <a href="http://www.cis.nctu.edu.tw/%7Ewuuyang/papers/A121.ps">A Simple Tree Pattern-Matching Algorithm</a> claims to improve Hoffman+O&#8217;Donnell.  It&#8217;s unlikely that this would be useful for forest matching.
+</div>
+
+
+<div class="meta">
+	<div class="date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-08-06T12:29:00-07:00" pubdate data-updated="true">Aug 6<span>th</span>, 2009</time></div>
+	<div class="tags">
+
+</div>
+	
+</div></article>
+
+	<div class="share">
+	<div class="addthis_toolbox addthis_default_style ">
+	
+	
+	<a class="addthis_button_tweet"></a>
+	
+	
+	<a class="addthis_counter addthis_pill_style"></a>
+	</div>
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>
+</div>
+
+
+</div>
+	<footer id="footer" class="inner">Copyright &copy; 2013
+
+    Jonathan Graehl
+
+</footer>
+	<script src="/javascripts/slash.js"></script>
+<script src="/javascripts/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+	$('.fancybox').fancybox();
+})(jQuery);
+</script> <!-- Delete or comment this line to disable Fancybox -->
+
+
+
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-22982312-2']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+
+
+</body>
+</html>

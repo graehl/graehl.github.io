@@ -1,0 +1,214 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>A Wrong "Alternative" 0/1 Knapsack solver - Science & Fun - Jonathan Graehl</title>
+	<meta name="author" content="Jonathan Graehl">
+
+	
+	<meta name="description" content="Be suspicious of algorithms given without proof of correctness, even if they do appear on the first page in Google. An Alternative Dynamic &hellip;">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link href="/atom.xml" rel="alternate" title="Science & Fun - Jonathan Graehl" type="application/atom+xml">
+	<link rel="canonical" href="">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	
+</head>
+
+<body>
+	<header id="header" class="inner"><h1><a href="/">Science & Fun - Jonathan Graehl</a></h1>
+<nav id="main-nav"><ul class="main">
+	<li><a href="/">Blog</a></li>
+	<li><a href="/blog/archives">Archives</a></li>
+</ul>
+</nav>
+<nav id="mobile-nav">
+	<div class="alignleft menu">
+		<a class="button">Menu</a>
+		<div class="container"><ul class="main">
+	<li><a href="/">Blog</a></li>
+	<li><a href="/blog/archives">Archives</a></li>
+</ul>
+</div>
+	</div>
+	<div class="alignright search">
+		<a class="button"></a>
+		<div class="container">
+			<form action="http://google.com/search" method="get">
+				<input type="text" name="q" results="0">
+				<input type="hidden" name="q" value="site:graehl.org">
+			</form>
+		</div>
+	</div>
+</nav>
+<nav id="sub-nav" class="alignright">
+	<div class="social">
+		
+		
+		
+		<a class="twitter" href="http://twitter.com/graehl" title="Twitter">Twitter</a>
+		
+		
+		<a class="github" href="https://github.com/graehl" title="GitHub">GitHub</a>
+		
+    
+		
+		
+		
+		
+		
+		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
+		
+	</div>
+	<form class="search" action="http://google.com/search" method="get">
+		<input class="alignright" type="text" name="q" results="0">
+		<input type="hidden" name="q" value="site:graehl.org">
+	</form>
+</nav>
+
+</header>
+	
+		
+	
+	<div id="content" class="inner"><article class="post">
+	<h2 class="title">A Wrong "Alternative" 0/1 Knapsack Solver</h2>
+	<div class="entry-content">Be suspicious of algorithms given without proof of correctness, even if
+they do appear on the first page in Google.<p></p>
+
+<a href="http://penguin.ewu.edu/%7Etrolfe/Knapsack01/Knapsack01.html">An
+Alternative Dynamic Programming Solution for the 0/1 Knapsack</a> is
+&#8220;alternative&#8221; as in homeopathy.  It&#8217;s appealingly somewhat simpler than
+the <a href="http://en.wikipedia.org/wiki/Knapsack_problem#0-1_knapsack_problem">standard
+solution</a>.<p></p>
+
+From their <a href="http://penguin.ewu.edu/%7Etrolfe/Knapsack01/Knap01Grid.java">Java
+implementation</a>:<br>
+<blockquote type="cite">
+<big><span style="border-collapse: separate; color: rgb(0, 0, 0); font-family: Times New Roman; font-size: medium; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-indent: 0px;">
+  </span></big><div class="CodeRay">
+  <div class="code"><pre>// Initial guess:  the knapsack for wt-1.
+   bestVal[wt] = bestVal[wt-1];</pre></div>
+</div>
+
+  </blockquote>
+That already causes some sub-optimal solutions.  I <a href="http://paste.pocoo.org/show/128686/">fixed</a> that, but that
+only reduced the frequency of wrong solutions.  For the input:<p></p>
+
+<blockquote type="cite">204
+  <br>
+9
+  <br>
+2 2
+  <br>
+81 81
+  <br>
+82 82
+  <br>
+182 182
+  <br>
+142 142
+  <br>
+11 11
+  <br>
+31 31
+  <br>
+61 61
+  <br>
+101 101
+  <p></p>
+  
+</blockquote>
+The &#8220;alternative solution&#8221; given is:<br>
+<blockquote type="cite">(142, 142)
+  <br>
+(61, 61)
+  <br>
+Total weight:  203
+  <br>
+Total value:   203
+  <br>
+</blockquote>
+But this is better:<br>
+<blockquote type="cite">(31+61+101 = 204)
+</blockquote>
+The problem: the &#8220;alternative&#8221; solution has already used 31 in summing
+to (204-31), 61 in summing to (204-61), and 101 in summing to
+(204-101).  If the input is ordered differently, this may not happen -
+all 3 of those coincidences need to occur for the algorithm to fail.<p></p>
+
+The algorithm wrongly commits to just one way of reaching a given sum,
+unlike the standard (correct) solution.
+</div>
+
+
+<div class="meta">
+	<div class="date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-07-30T16:17:45-07:00" pubdate data-updated="true">Jul 30<span>th</span>, 2009</time></div>
+	<div class="tags">
+
+</div>
+	
+</div></article>
+
+	<div class="share">
+	<div class="addthis_toolbox addthis_default_style ">
+	
+	
+	<a class="addthis_button_tweet"></a>
+	
+	
+	<a class="addthis_counter addthis_pill_style"></a>
+	</div>
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>
+</div>
+
+
+</div>
+	<footer id="footer" class="inner">Copyright &copy; 2013
+
+    Jonathan Graehl
+
+</footer>
+	<script src="/javascripts/slash.js"></script>
+<script src="/javascripts/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+	$('.fancybox').fancybox();
+})(jQuery);
+</script> <!-- Delete or comment this line to disable Fancybox -->
+
+
+
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-22982312-2']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+
+
+</body>
+</html>

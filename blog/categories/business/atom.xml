@@ -4,7 +4,7 @@
   <title><![CDATA[Category: business | Science & Fun - Jonathan Graehl]]></title>
   <link href="http://graehl.org/blog/categories/business/atom.xml" rel="self"/>
   <link href="http://graehl.org/"/>
-  <updated>2013-06-04T05:40:06-07:00</updated>
+  <updated>2013-06-04T06:00:17-07:00</updated>
   <id>http://graehl.org/</id>
   <author>
     <name><![CDATA[Jonathan Graehl]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[hill-climbing]]></title>
-    <link href="http://graehl.org/hill-climbing/"/>
+    <link href="http://graehl.org/2012/10/19/hill-climbing/"/>
     <updated>2012-10-19T17:58:20-07:00</updated>
-    <id>http://graehl.org/hill-climbing</id>
+    <id>http://graehl.org/2012/10/19/hill-climbing</id>
     <content type="html"><![CDATA[<div class="p_embed p_file_embed">
 <a href=""><div class="p_icon"></div>
 <div class="p_text">2012-09 ACMRecSysNR.pdf</div>

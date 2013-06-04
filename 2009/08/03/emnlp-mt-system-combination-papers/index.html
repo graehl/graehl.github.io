@@ -1,0 +1,210 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>EMNLP MT system combination papers - Science & Fun - Jonathan Graehl</title>
+	<meta name="author" content="Jonathan Graehl">
+
+	
+	<meta name="description" content="I&#8217;ve skimmed a the system combination papers mentioned at ACS: Machine Translation Papers at EMNLP. System combination can give large &hellip;">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link href="/atom.xml" rel="alternate" title="Science & Fun - Jonathan Graehl" type="application/atom+xml">
+	<link rel="canonical" href="">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	
+</head>
+
+<body>
+	<header id="header" class="inner"><h1><a href="/">Science & Fun - Jonathan Graehl</a></h1>
+<nav id="main-nav"><ul class="main">
+	<li><a href="/">Blog</a></li>
+	<li><a href="/blog/archives">Archives</a></li>
+</ul>
+</nav>
+<nav id="mobile-nav">
+	<div class="alignleft menu">
+		<a class="button">Menu</a>
+		<div class="container"><ul class="main">
+	<li><a href="/">Blog</a></li>
+	<li><a href="/blog/archives">Archives</a></li>
+</ul>
+</div>
+	</div>
+	<div class="alignright search">
+		<a class="button"></a>
+		<div class="container">
+			<form action="http://google.com/search" method="get">
+				<input type="text" name="q" results="0">
+				<input type="hidden" name="q" value="site:graehl.org">
+			</form>
+		</div>
+	</div>
+</nav>
+<nav id="sub-nav" class="alignright">
+	<div class="social">
+		
+		
+		
+		<a class="twitter" href="http://twitter.com/graehl" title="Twitter">Twitter</a>
+		
+		
+		<a class="github" href="https://github.com/graehl" title="GitHub">GitHub</a>
+		
+    
+		
+		
+		
+		
+		
+		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
+		
+	</div>
+	<form class="search" action="http://google.com/search" method="get">
+		<input class="alignright" type="text" name="q" results="0">
+		<input type="hidden" name="q" value="site:graehl.org">
+	</form>
+</nav>
+
+</header>
+	
+		
+	
+	<div id="content" class="inner"><article class="post">
+	<h2 class="title">EMNLP MT System Combination Papers</h2>
+	<div class="entry-content">I&#8217;ve skimmed a the system combination papers mentioned at <a href="http://nlpers.blogspot.com/2009/08/acs-machine-translation-papers-at-emnlp.html">ACS:
+Machine Translation Papers at EMNLP.</a><br>
+<hr size="2" width="100%">System combination can give large
+improvements in MT quality, but in practice you have to ask people to
+translate material for you on their system.<br>
+<a href="http://aclweb.org/anthology-new/D/D09/D09-1114.pdf">Duan et al.</a>
+(Feature Subspace Method for SMT System Combination) take a single
+system and create a dozen variants of it (each leaving out a single
+feature, or using a lower-order language model), and gain about 1 BLEU
+by doing sentence-level rescoring using ngram-agreement and internal
+model features (weights trained on a dev set).  This is more than the
+modest 0.25 BLEU I&#8217;ve obtained by doing the same thing for a single
+system&#8217;s nbests; they didn&#8217;t report their single-system reranking gain
+but it&#8217;s probably similar.<p></p>
+
+When combining two actual systems (Hiero-style and phrase-based), they
+have to leave out the internal features (which are difficult or
+impossible to evaluate on an unrelated system output), but still get an
+additive ~1 BLEU when using 2*12 than 2*1 systems.  They also found
+that 20-50 nbests were best (this agrees with my experience in sentence
+reranking, but obviously that&#8217;s dependent on the search errors,
+duplicate derivations, and other properties of the actual system and
+search procedure; sometimes I&#8217;ve found a small benefit from up to
+1000-bests).<p></p>
+
+This is an excellent result and easy (if tedious) to apply to your own
+system(s).  I don&#8217;t find their theoretical motivation particularly
+compelling.  It seems to me that all the benefits are explained in
+terms of Bayesian averaging over multiple feature-weight vectors.<br>
+<hr size="2" width="100%">
+<a href="http://aclweb.org/anthology-new/D/D09/D09-1115.pdf">Feng et al.</a>
+(Lattice-based System Combination for SMT) take the nice word-level
+(&#8220;sausage graph&#8221;) confusion network IHMM system combination method of
+Xiadong He, and take the obvious step of generating lattices.  They get
+another 0.5-1 BLEU over his result.  They build the lattice from word
+to word alignments against a backbone translation, as in the CN case,
+so it&#8217;s impressive that they get a meaningful lattice.  My own thought
+would be to have the MT systems output alignment information directly,
+but their way makes integration easier.  <p></p>
+
+It&#8217;s also possible to get much of the benefit from a lattice&#8217;s phrases
+by using system preferences for ngrams as a feature on top of the
+unigram CN; <a href="http://www.aclweb.org/anthology/N/N09/N09-2052.pdf">Zhao &amp; He</a>
+get almost identical improvement by doing so (they also add the usual
+ngram-agreement reranking feature, where you treat your weighted nbest
+as an English LM, into their CN decoder, which is smart).  If you have
+an existing CN system, it&#8217;s probably easier to do this than switch to
+lattices (there&#8217;s no reason not to try to combine the methods, but they
+do very similar things already).<p></p>
+
+<a href="http://aclweb.org/anthology-new/D/D09/D09-1125.pdf">He &amp;
+Toutanova</a> (Joint Optimization for MT Sytem Combination) also amend
+He&#8217;s original approach, and get a larger improvement (1.5 BLEU).  The
+original CN IHMM approach was a pipeline of several greedy/hard
+decisions; this work fixes that by jointly searching possible
+reorderings/alignments/selections of phrases from the nbest
+translations.  There&#8217;s probably not any way to &#8220;add lattices&#8221; on top of
+this; there&#8217;s no explicit backbone, and they already use bigram system
+voting.  I&#8217;d try new features before considering lattices (e.g. nbest
+ngram LM, 3gram voting).  They show that the integrated alignment
+search is important; they lose 0.3 BLEU if they restrict the search to
+Viterbi union alignments.
+</div>
+
+
+<div class="meta">
+	<div class="date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-08-03T19:04:57-07:00" pubdate data-updated="true">Aug 3<span>rd</span>, 2009</time></div>
+	<div class="tags">
+
+</div>
+	
+</div></article>
+
+	<div class="share">
+	<div class="addthis_toolbox addthis_default_style ">
+	
+	
+	<a class="addthis_button_tweet"></a>
+	
+	
+	<a class="addthis_counter addthis_pill_style"></a>
+	</div>
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>
+</div>
+
+
+</div>
+	<footer id="footer" class="inner">Copyright &copy; 2013
+
+    Jonathan Graehl
+
+</footer>
+	<script src="/javascripts/slash.js"></script>
+<script src="/javascripts/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+	$('.fancybox').fancybox();
+})(jQuery);
+</script> <!-- Delete or comment this line to disable Fancybox -->
+
+
+
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-22982312-2']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+
+
+</body>
+</html>
