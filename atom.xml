@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://graehl.github.io/atom.xml" rel="self"/>
-  <link href="http://graehl.github.io/"/>
-  <updated>2013-06-04T03:13:46-07:00</updated>
-  <id>http://graehl.github.io/</id>
+  <title><![CDATA[Science & Fun - Jonathan Graehl]]></title>
+  <link href="http://graehl.org/atom.xml" rel="self"/>
+  <link href="http://graehl.org/"/>
+  <updated>2013-06-04T03:32:46-07:00</updated>
+  <id>http://graehl.org/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Jonathan Graehl]]></name>
+    <email><![CDATA[graehl@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
