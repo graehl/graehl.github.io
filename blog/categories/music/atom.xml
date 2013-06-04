@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Science & Fun - Jonathan Graehl]]></title>
-  <link href="http://graehl.org/atom.xml" rel="self"/>
+  <title><![CDATA[Category: music | Science & Fun - Jonathan Graehl]]></title>
+  <link href="http://graehl.org/blog/categories/music/atom.xml" rel="self"/>
   <link href="http://graehl.org/"/>
   <updated>2013-06-04T03:45:19-07:00</updated>
   <id>http://graehl.org/</id>
