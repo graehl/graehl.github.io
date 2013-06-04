@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: thinking | Science & Fun - Jonathan Graehl]]></title>
+  <link href="http://graehl.org/blog/categories/thinking/atom.xml" rel="self"/>
+  <link href="http://graehl.org/"/>
+  <updated>2013-06-04T05:12:17-07:00</updated>
+  <id>http://graehl.org/</id>
+  <author>
+    <name><![CDATA[Jonathan Graehl]]></name>
+    <email><![CDATA[graehl@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[rediscovery]]></title>
+    <link href="http://graehl.org/rediscovery/"/>
+    <updated>2011-07-07T11:24:00-07:00</updated>
+    <id>http://graehl.org/rediscovery</id>
+    <content type="html"><![CDATA[<p>For what fraction of your beliefs could you rediscover the belief if it (only) was deleted, leaving all your other memories except those of learning or attesting to the belief? If the fraction is near 1, this is more than just robustness to damage from physical damage - e.g. stroke/alzheimer's/poisoning - (like bilingualism or other sources of <a href="http://en.wikipedia.org/wiki/Cognitive_reserve">cognitive reserve</a>) due to having meaningfully connected beliefs (to each other and to your experience) rather than rote-learned mantras.  It's confidence that your beliefs are effectively complete - that you have access to the derivable consequences of your experience (even if you're not genius-fast at (re)discovering them as needed).</p>
+
+
+<p></p>
+
+
+<p>  (paraphrasing <a href="http://lesswrong.com/lw/la/truly_part_of_you/">this</a>)</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: astronomy | Science & Fun - Jonathan Graehl]]></title>
+  <link href="http://graehl.org/blog/categories/astronomy/atom.xml" rel="self"/>
+  <link href="http://graehl.org/"/>
+  <updated>2013-06-04T05:12:17-07:00</updated>
+  <id>http://graehl.org/</id>
+  <author>
+    <name><![CDATA[Jonathan Graehl]]></name>
+    <email><![CDATA[graehl@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[you are here]]></title>
+    <link href="http://graehl.org/you-are-here/"/>
+    <updated>2012-01-10T12:02:00-08:00</updated>
+    <id>http://graehl.org/you-are-here</id>
+    <content type="html"><![CDATA[<p></p>
+
+
+<div class="p_embed p_image_embed">
+<img alt="Sun-from-voyager" src="http://graehl.org/images/2012/01/10/you-are-here/36588545-sun-from-voyager.jpg">
+</div>
+
+
+
+
+<p>Voyager - one of the first digital cameras. Pretty good range on its wireless network, too :)</p>
+
+
+<p>The dot is our sun.</p>
+
+]]></content>
+  </entry>
+  
+</feed>
