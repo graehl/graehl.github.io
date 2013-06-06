@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: programming | Science & Fun - Jonathan Graehl]]></title>
+  <link href="http://graehl.org/?tag=programming/atom.xml" rel="self"/>
+  <link href="http://graehl.org/"/>
+  <updated>2013-06-05T18:19:42-07:00</updated>
+  <id>http://graehl.org/</id>
+  <author>
+    <name><![CDATA[Jonathan Graehl]]></name>
+    <email><![CDATA[graehl@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[claims from research on programming]]></title>
+    <link href="http://graehl.org/2013/01/26/claims-from-research-on-programming/"/>
+    <updated>2013-01-26T15:56:00-08:00</updated>
+    <id>http://graehl.org/2013/01/26/claims-from-research-on-programming</id>
+    <content type="html"><![CDATA[<p>Some claims with empirical studies behind them from <a href="http://vimeo.com/9270320" target="_blank">a talk by Greg Wilson</a>:</p>
+
+<div>
+<ul>
+<li>(working?) lines of code written per time is the same for high and low level languages</li>
+<li>25% increase in size of program description = doubling of program size (interactions?)</li>
+<li>code review is worth doing; almost all the benefit comes from the first review. (<a href="http://smartbear.com/SmartBear/media/pdfs/best-kept-secrets-of-peer-code-review.pdf" target="_blank">Cohen 2006</a>)</li>
+<li>most people don't find anything useful when continuing to read code past the first hour. (Cohen 2006).</li>
+<li>(post-compile?) 60-90% of bugs can be found before first execution by reading code. this beats writing unit tests (although those can be re-run to detect future regressions, at least)</li>
+<li>the rate of review that finds bugs in that hour (maximum) is a few hundred lines max</li>
+<li>telling people that programming ability is mostly talent/genetic based vs. telling them it relies on practice: both men and women do worse - not trying as hard when they hit an obstacle?</li>
+<li>physical distance: being near or cross-country (or even +9 hours) doesn't impact (released) bug rate</li>
+<li>distance in org chart: collaboration between programmers far apart in org tree means higher bug rate (I don't think this implies that if you give two groups of people an identical task starting from scratch, then a different org chart will change things much; rather, I guess that the tasks that rope together different-domain software teams' expertise and/or systems are inherently harder)</li>
+<li>no code metric as of 2001 predicts bugs; all the benefit comes from code size of a program (more code -&gt; more bugs)</li>
+<li>anchoring (or perhaps the subservient desire to not disappoint by seeming incompetent) applies strongly to implementation time estimates no matter how experienced the programmer or low-authority ("I know nothing about software but I think this should take about ... 3 weeks ... 20 weeks")</li>
+<li>bugs that are fixed later in development are more expensive (by what measure?) than those caught earlier (because the cheap ones are easy to spot?)</li>
+</ul>
+<div>(disclaimer: most studies of software programming productivity are not blind controlled studies, are mere correlations, use an undergrad population, and/or have data consisting of fewer than 100 person-hours)</div>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>

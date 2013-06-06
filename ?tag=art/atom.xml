@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: art | Science & Fun - Jonathan Graehl]]></title>
+  <link href="http://graehl.org/?tag=art/atom.xml" rel="self"/>
+  <link href="http://graehl.org/"/>
+  <updated>2013-06-05T18:19:42-07:00</updated>
+  <id>http://graehl.org/</id>
+  <author>
+    <name><![CDATA[Jonathan Graehl]]></name>
+    <email><![CDATA[graehl@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[familiarity breeds liking]]></title>
+    <link href="http://graehl.org/2013/01/07/familiarity-breeds-liking/"/>
+    <updated>2013-01-07T18:29:00-08:00</updated>
+    <id>http://graehl.org/2013/01/07/familiarity-breeds-liking</id>
+    <content type="html"><![CDATA[<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: #cccccc; border-left-style: solid; padding-left: 1ex;"><em style="color: #000000; font-family: Verdana,sans-serif; font-size: 13px;">psychologist James Cutting (2003, 2006) briefly exposed undergraduate psychology students to canonical and lesser-known Impressionist paintings (the lesser-known works exposed four times as often), with the result that after exposure, subjects preferred the lesser-known works more often than did the control group. Cutting took this result to show that canon formation is a result of cultural exposure over time.</em></blockquote>
+
+
+<p></p>
+
+
+<div>
+<a href="http://www.gwern.net/Culture%20is%20not%20about%20Esthetics#the-experimental-results">via</a>, <a href="http://squid314.livejournal.com/348496.html">via</a>
+</div>
+
+
+<p></p>
+
+
+<div>pop music works this way - if you're not adjusted already, the latest hits mostly seem obnoxious on first listen. radio playlist programmers know which songs make people keep tuned in (and they're not always the ones that people say they like the most). </div>
+
+
+<p></p>
+
+
+<div>i've noticed that with repetition i can appreciate jazz which i thought at first was over-clever garbage.</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[beautiful photos]]></title>
+    <link href="http://graehl.org/2012/07/24/beautiful-photos/"/>
+    <updated>2012-07-24T13:28:24-07:00</updated>
+    <id>http://graehl.org/2012/07/24/beautiful-photos</id>
+    <content type="html"><![CDATA[<p> <p></p></p>
+
+<div class="p_embed p_image_embed">
+<img alt="Wave" src="http://graehl.org/images/2012/07/24/beautiful-photos/43196536-wave.png">
+<img alt="Easily" src="http://graehl.org/images/2012/07/24/beautiful-photos/43196537-easily.jpeg">
+<img alt="Dakota" src="http://graehl.org/images/2012/07/24/beautiful-photos/43196538-dakota.jpeg">
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>

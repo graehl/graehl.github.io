@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: willpower | Science & Fun - Jonathan Graehl]]></title>
+  <link href="http://graehl.org/?tag=willpower/atom.xml" rel="self"/>
+  <link href="http://graehl.org/"/>
+  <updated>2013-06-05T18:19:42-07:00</updated>
+  <id>http://graehl.org/</id>
+  <author>
+    <name><![CDATA[Jonathan Graehl]]></name>
+    <email><![CDATA[graehl@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[More research on willpower]]></title>
+    <link href="http://graehl.org/2011/08/19/more-research-on-willpower-willpowerpsycholog/"/>
+    <updated>2011-08-19T15:24:00-07:00</updated>
+    <id>http://graehl.org/2011/08/19/more-research-on-willpower-willpowerpsycholog</id>
+    <content type="html"><![CDATA[<p>Baumeister has a <a href="http://www.amazon.com/Willpower-Rediscovering-Greatest-Human-Strength/dp/1594203075/ref=sr_1_1?ie=UTF8&amp;qid=1313659075&amp;sr=8-1">book</a> coming out on willpower. There's a <a href="http://www.nytimes.com/2011/08/21/magazine/do-you-suffer-from-decision-fatigue.html?_r=1&amp;pagewanted=all">NYTimes article</a> about his work, summarized and discussed on <a href="http://lesswrong.com/r/discussion/lw/75s/link_nytimes_essay_on_willpower_based_on_an/">LessWrong</a>.</p>
+
+
+<p></p>
+
+
+<p>  I&rsquo;ve <a href="http://graehl.org/tag/willpower">previously discussed</a> much of this. But some of it is new research.<p></p>  It&rsquo;s still possible that the only thing being depleted is glucose available to the brain (which is most readily available from stored liver glycogen, or food). But there may be other chemical resources involved. In any case, weighing and making choices taxes the brain; I&rsquo;m not sure how much more or less than e.g. solving puzzles or reading and thinking critically.<p></p>  Quoting from the LessWrong summary:<p></p></p>
+
+<blockquote>
+<span style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; text-align: justify; text-indent: 0px; background-color: #ffffff; font-size: small;">
+</span><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;">You spend the most willpower when you have to make AND implement your decisions:</p>
+<blockquote style="border-left-width: 2px; border-left-style: solid; border-left-color: #336699; padding-left: 4px; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 15px;">
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;">which phase of the decision-making process was most fatiguing? To find out, Kathleen Vohs, a former colleague of Baumeister’s now at the University of Minnesota, performed an experiment using the self-service Web site of Dell Computers. One group in the experiment carefully studied the advantages and disadvantages of various features available for a computer — the type of screen, the size of the hard drive, etc. — without actually making a final decision on which ones to choose. A second group was given a list of predetermined specifications and told to configure a computer by going through the laborious, step-by-step process of locating the specified features among the arrays of options and then clicking on the right ones. The purpose of this was to duplicate everything that happens in the postdecisional phase, when the choice is implemented.<span> </span><em style="font-style: italic;">The third group had to figure out for themselves which features they wanted on their computers and go through the process of choosing them; they didn’t simply ponder options (like the first group) or implement others’ choices (like the second group). They had to cast the die, and that turned out to be the most fatiguing task of all. When self-control was measured, they were the one who were most depleted, by far</em>.</p>
+</blockquote>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;"> </p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;">Willpower depletion makes you reluctant to make trade-offs:</p>
+<blockquote style="border-left-width: 2px; border-left-style: solid; border-left-color: #336699; padding-left: 4px; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 15px;">
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;">Once you’re mentally depleted, you become reluctant to make trade-offs, which involve a particularly advanced and taxing form of decision making. In the rest of the animal kingdom, there aren’t a lot of protracted negotiations between predators and prey. To compromise is a complex human ability and therefore one of the first to decline when willpower is depleted. You become what researchers call a cognitive miser, hoarding your energy.<span> </span><em style="font-style: italic;">If you’re shopping, you’re liable to look at only one dimension, like price: just give me the cheapest. Or you indulge yourself by looking at quality: I want the very best</em><span> </span>(an especially easy strategy if someone else is paying). Decision fatigue leaves you vulnerable to marketers who know how to time their sales, as Jonathan Levav, the Stanford professor, demonstrated in experiments involving tailored suits and new cars.</p>
+</blockquote>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;"> </p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;">Willpower depletion makes you more likely to take the path of least resistance:</p>
+<blockquote style="border-left-width: 2px; border-left-style: solid; border-left-color: #336699; padding-left: 4px; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 15px;">
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;">As they started picking features, customers would carefully weigh the choices, but<span> </span><em style="font-style: italic;">as decision fatigue set in, they would start settling for whatever the default option was. And the more tough choices they encountered early in the process — like going through those 56 colors to choose the precise shade of gray or brown — the quicker people became fatigued and settled for the path of least resistance by taking the default option.</em><span> </span>By manipulating the order of the car buyers’ choices, the researchers found that the customers would end up settling for different kinds of options, and the average difference totaled more than 1,500 euros per car (about $2,000 at the time).</p>
+</blockquote>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;"> </p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;">Testing willpower depletion in rural Indian villages:</p>
+<blockquote style="border-left-width: 2px; border-left-style: solid; border-left-color: #336699; padding-left: 4px; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 15px;">
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;">Most of us in America won’t spend a lot of time agonizing over whether we can afford to buy soap, but it can be a depleting choice in rural India. Dean Spears, an economist at Princeton, offered people in 20 villages in Rajasthan in northwestern India the chance to buy a couple of bars of brand-name soap for the equivalent of less than 20 cents. It was a steep discount off the regular price, yet even that sum was a strain for the people in the 10 poorest villages. Whether or not they bought the soap, the act of making the decision left them with less willpower, as measured afterward in a test of how long they could squeeze a hand grip. In the slightly more affluent villages, people’s willpower wasn’t affected significantly.</p>
+</blockquote>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;"> </p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;">Decision fatigue can be a factor in trapping people in poverty:</p>
+<blockquote style="border-left-width: 2px; border-left-style: solid; border-left-color: #336699; padding-left: 4px; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 15px;">
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;">Spears and other researchers argue that this sort of decision fatigue is a major — and hitherto ignored — factor in trapping people in poverty. Because<span> </span><em style="font-style: italic;">their financial situation forces them to make so many trade-offs, they have less willpower to devote to school, work and other activities that might get them into the middle class</em>.</p>
+</blockquote>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;"> </p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;">Glucose restores willpower in humans and dogs:</p>
+<blockquote style="border-left-width: 2px; border-left-style: solid; border-left-color: #336699; padding-left: 4px; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 15px;">
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;">To establish cause and effect, researchers at Baumeister’s lab tried refueling the brain in a series of experiments involving lemonade mixed either with sugar or with a diet sweetener. The sugary lemonade provided a burst of glucose, the effects of which could be observed right away in the lab; the sugarless variety tasted quite similar without providing the same burst of glucose.<span> </span><em style="font-style: italic;">Again and again, the sugar restored willpower, but the artificial sweetener had no effect.</em><span> </span>The glucose would at least mitigate the ego depletion and sometimes completely reverse it. The restored willpower improved people’s self-control as well as the quality of their decisions: they resisted irrational bias when making choices, and when asked to make financial decisions, they were more likely to choose the better long-term strategy instead of going for a quick payoff.<span> </span><em style="font-style: italic;">The ego-depletion effect was even demonstrated with dogs in two studies by Holly Miller and Nathan DeWall at the University of Kentucky. After obeying sit and stay commands for 10 minutes, the dogs performed worse on self-control tests and were also more likely to make the dangerous decision to challenge another dog’s turf</em>. But a dose of glucose restored their willpower.</p>
+</blockquote>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;"> </p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;">Ego depletion causes activity to rise in some parts of the brain and to decline in others:</p>
+<blockquote style="border-left-width: 2px; border-left-style: solid; border-left-color: #336699; padding-left: 4px; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 15px;">
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;">The results of the experiment were announced in January, during Heatherton’s speech accepting the leadership of the Society for Personality and Social Psychology, the world’s largest group of social psychologists. In his presidential address at the annual meeting in San Antonio, Heatherton reported that administering glucose completely reversed the brain changes wrought by depletion — a finding, he said, that thoroughly surprised him.<em style="font-style: italic;">Heatherton’s results did much more than provide additional confirmation that glucose is a vital part of willpower; they helped solve the puzzle over how glucose could work without global changes in the brain’s total energy use. Apparently ego depletion causes activity to rise in some parts of the brain and to decline in others. Your brain does not stop working when glucose is low. It stops doing some things and starts doing others. It responds more strongly to immediate rewards and pays less attention to long-term prospects</em>.</p>
+</blockquote>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;"> </p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;">Good decision makers structure their lives so as to conserve willpower:</p>
+<blockquote style="border-left-width: 2px; border-left-style: solid; border-left-color: #336699; padding-left: 4px; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 15px;">
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;">“Good decision making is not a trait of the person, in the sense that it’s always there,” Baumeister says. “It’s a state that fluctuates.” His studies show that people with the best self-control are the ones who structure their lives so as to conserve willpower.<span> </span><em style="font-style: italic;">They don’t schedule endless back-to-back meetings. They avoid temptations like all-you-can-eat buffets, and they establish habits that eliminate the mental effort of making choices. Instead of deciding every morning whether or not to force themselves to exercise, they set up regular appointments to work out with a friend</em>. Instead of counting on willpower to remain robust all day, they conserve it so that it’s available for emergencies and important decisions.</p>
+</blockquote>
+<blockquote style="border-left-width: 2px; border-left-style: solid; border-left-color: #336699; padding-left: 4px; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 15px;">
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px;">“Even the wisest people won’t make good choices when they’re not rested and their glucose is low,” Baumeister points out.</p>
+</blockquote>
+</blockquote>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[inaccurately simplified reporting on willpower depletion research]]></title>
+    <link href="http://graehl.org/2011/06/07/inaccurately-simplified-reporting-on-willpowe/"/>
+    <updated>2011-06-07T16:56:00-07:00</updated>
+    <id>http://graehl.org/2011/06/07/inaccurately-simplified-reporting-on-willpowe</id>
+    <content type="html"><![CDATA[<blockquote><span style="border-collapse: separate; color: #000000; font-family: arial,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-indent: 0px;"><span style="border-collapse: collapse; font-size: 13px;">They had food-deprived subjects sit at a table with two types of food on it: cookies and chocolates; and radishes. Some of the subjects were instructed to eat radishes and resist the sweets, and afterwards all were put to work on unsolvable geometric puzzles. Resisting the sweets, independent of mood, made participants give up more than twice as quickly on the geometric puzzles. Resisting temptation, the researchers found, seemed to have “produced a ‘psychic cost.’”</span></span></blockquote>
+
+
+<p><br>Based on the reporter's description, I expected that the chocolate eaters merely tried harder because of the caffeine and sugar (both of which are known to help motivate or support mental labor).</p>
+
+
+<p> </p>
+
+
+<p>But the actual  study was careful of this (see <a href="http://faculty.washington.edu/jdb/345/345%20Articles/Baumeister%20et%20al.%20%281998%29.pdf">pg 1254, Method</a>, and Table 1); a no-food no-temptation control group performed the same as the chocolate-indulging group. It was only the radish-eating chocolate-resisters (giving up 40% sooner due to the psychic pain of resisting a fresh-baked-chocolate-chip-cookie temptation).</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[belief in limited willpower is self-fulfilling?]]></title>
+    <link href="http://graehl.org/2010/10/25/belief-in-limited-willpower-is-self-fulfillin/"/>
+    <updated>2010-10-25T12:49:56-07:00</updated>
+    <id>http://graehl.org/2010/10/25/belief-in-limited-willpower-is-self-fulfillin</id>
+    <content type="html"><![CDATA[<pre><code>  (see previous &lt;a href=""&gt;discussion of ego-depletion&lt;/a&gt;)&lt;p&gt;&lt;/p&gt;  It looks like people studying people's decline in vigilance-required tasks over time need to take care not to suggest to their subjects the idea that they will probably fatigue.  The theory is that tasks that specifically require "self control" can lead to specific fatigue in other "self control" tasks, as distinct from general mental fatigue, although it's been found that glucose availability to the brain explains most of this.&lt;p&gt;&lt;/p&gt;  A new &lt;a href="http://www.stanford.edu/%7Egwalton/home/Publications_files/Job,%20Dweck,%20%26%20Walton,%202010.pdf"&gt;study&lt;/a&gt;, which is much more careful than past ones, gives a pretty strong idea that people's expectations for how they'll perform while willpower-taxed are the determining factor (at least for artifical, low-motivation psych-study tasks), and further that when these expectations are manipulated (by push polling), that this obliterates the effects typically reported in the ego-depletion literature. Because of the push polling affecting performance, you can't just say that it's '&lt;span style="border-collapse: separate; color: rgb(0, 0, 0); font-family: Times New Roman; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; font-size: medium;"&gt;&lt;span style="font-family: Arial,Helvetica,sans-serif; line-height: 19px; text-align: justify; font-size: small;"&gt;the person's idiosyncratic "availability of willpower" after a demanding task that shapes idiosyncratic beliefs about willpower'&lt;/span&gt;&lt;/span&gt;.&lt;p&gt;&lt;/p&gt;  I reproduce here my comments from this &lt;a href="http://lesswrong.com/lw/2y2/willpower_not_a_limited_resource/"&gt;LessWrong discussion&lt;/a&gt;: &lt;blockquote type="cite"&gt;&lt;div style="border-collapse: separate; color: rgb(0, 0, 0); font-family: Times New Roman; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; font-size: medium;"&gt;
+</code></pre>
+
+<div style="font-family: Arial,Helvetica,sans-serif; line-height: 19px; text-align: justify; font-size: small;"> <p style="margin: 0px 0px 1em;">What's demonstrated: if you prime an excuse for doing poorly, you will do poorly. I think there's already some similar research (different types of excuses, though). They also show that self-reported exhaustion (not just "ego depleting" tasks) leads to a difference in performance that goes in exactly the direction that the subjects are primed to believe (either being reminded of an existing belief, or being tricked into holding it with biased questions).</p> <p style="margin: 0px 0px 1em;">It surprises me that, of the people who don't claim to expect to flag when fatigued, those who report being exhausted by the depletion task actually make less errors than those who don't. Unless this is just due to warming up their inhibition/vigilance (both the initial and final tests require it) while, it suggests that positive expectations can boost performance, not just that available excuses can harm it.</p> <p style="margin: 0px 0px 1em;">I like that they demonstrated that errors on IQ problems tracks errors on mundane rule-following, vigilance type tasks, but it's amusing to me that people who believe they'll do worse when fatigued, actually test as smarter (less IQ test errors) when fresh, whereas those primed to believe they won't effectively fatigue improve slightly, but are still worse than the "limited resource" believers initial performance. This effect is still there, but probably not significant, for the simple but tiresome "willpower" testing (Stroop) task. I assume the "limited"-believers are more engaged by an IQ-proving question, either for signaling or entertainment, compared to the boring Stroop task. Disclaimer: these differences, from figures in pg 5 of the<span class="Apple-converted-space"> </span></p>
+</div>
+
+
+<p><a href="http://www.stanford.edu/%7Egwalton/home/Publications_files/Job,%20Dweck,%20%26%20Walton,%202010.pdf" rel="nofollow" style="color: rgb(106, 138, 107); text-decoration: underline;">paper</a>. aren&rsquo;t strongly significant (N ~= 50), so maybe I shouldn&rsquo;t conclude anything (the authors don&rsquo;t pin anything on them). </div></blockquote> <blockquote type="cite">It seems reasonable to me that push polling about someone&rsquo;s future behavior will lead them to act consistently with the signal they just sent in the poll &ndash; like in<span class="Apple-converted-space"> </span><a href="http://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/0688128165" rel="nofollow" style="color: rgb(106, 138, 107); text-decoration: underline;">Cialdini&rsquo;s Influence</a>, where people are polled on whether they like to go to opera, or give charitably, by some attractive person they want to impress, and then after affirming are ambushed with a sales pitch (they thought it was an innocent poll but are trapped by their answers). So it seems reasonable to assume that those who were push-polled into believing they will become either sloppier, or more accurate, with fatigue, would act consonantly.<div style="border-collapse: separate; color: rgb(0, 0, 0); font-family: Times New Roman; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; font-size: medium;"><div style="font-family: Arial,Helvetica,sans-serif; line-height: 19px; text-align: justify; font-size: small;"> <p style="margin: 0px 0px 1em;">But I don&rsquo;t think this objection is likely the whole story. The simplest explanation is that people&rsquo;s stated expectations of their performance do shape their performance &ndash; the power of positive thinking, and obviously, negative. (possibly unvoiced/persistent expectations as well as explicitly declared, although of course it&rsquo;s nearly impossible to measure such things surreptitiously).</p> </div></div>
+</blockquote></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[mitigating ego depletion]]></title>
+    <link href="http://graehl.org/2010/10/13/mitigating-ego-depletion/"/>
+    <updated>2010-10-13T01:54:00-07:00</updated>
+    <id>http://graehl.org/2010/10/13/mitigating-ego-depletion</id>
+    <content type="html"><![CDATA[<p>From the <a href="http://bama.ua.edu/%7Esprentic/101%20Baumeister%20et%20al.%202007-self%20control.pdf">paper in the previous post</a>:</p>
+
+
+<blockquote class="posterous_short_quote">When people expect to have to exert self-control later, they will curtail current performance more severely than if no such demands are anticipated.</blockquote>
+
+
+<p>Cool.</p>
+
+
+<blockquote class="posterous_medium_quote">Consistent with the conservation hypothesis, people can exert self-control despite ego depletion if the stakes are high enough. Offering cash incentives or other motives for good performance counteracts the effects of ego depletion.</blockquote>
+
+
+<p>I also <a href="">expressed skepticism</a> that experimental subjects were really motivated.</p>
+
+
+<blockquote>Inducing a state of positive emotion such as humor seems to have that effect [moderating or counteracting the effects of ego depletion] (Tice, Baumeister, Shmueli, &amp; Muraven, 2007). Having implementation intentions — formulating ‘‘if–then’’ statements about how to behave in a situation prior to entering it — seems to be effective most likely because such intentions operate as behavioral plans and guidelines that reduce the need for executive control (Webb &amp; Sheeran, 2003). To be sure, none of these procedures clearly counteracts the depleted state in the sense of replenishing the depleted resource. Rather, they may all operate by inducing the person to expend more of the depleted resource. In contrast, there is some reason to think that replenishing glucose in the bloodstream does actually rectify the depletion by restoring the depleted resource (Gailliot et al., 2007).</blockquote>
+
+
+<p>Having a comprehensive plan in place means you don't have to decide anything. Does making such a plan cost as much as making a decision in real time?</p>
+
+
+<blockquote class="posterous_medium_quote">Logical reasoning, extrapolation, and other controlled processes depend on control by the self, and performance on these tasks dips sharply when people are depleted (Schmeichel, Vohs, &amp; Baumeister, 2003).</blockquote>
+
+
+<p>I wonder what types of items generally used to measure IQ ("G") don't ego-deplete.</p>
+
+
+<blockquote class="posterous_medium_quote">Recent studies indicate that the same energy is used for effortful decision making, as well as for active rather than passive responses (e.g., Vohs et al., 2007).  These seem to correspond to what laypersons understand as ‘‘free will,’’ namely the ability to override impulses, behave morally, show initiative, and behave according to rational choices (Baumeister, in press).</blockquote>
+
+
+<p>If I remember this research, contemplating the decision (e.g. imagining consequences) isn't depleting; making it is.</p>
+
+
+<blockquote class="posterous_short_quote">Success at building self-control through exercises has been inconsistent.</blockquote>
+
+
+<p>Agreed.</p>
+
+
+<blockquote class="posterous_short_quote">Identifying the biological substrates of self-control depletion (and replenishment) would be another helpful direction for further work.</blockquote>
+
+
+<p>I mentioned this <a href="">earlier</a>.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[fending off willpower depletion]]></title>
+    <link href="http://graehl.org/2010/10/12/fending-off-willpower-depletion/"/>
+    <updated>2010-10-12T23:03:00-07:00</updated>
+    <id>http://graehl.org/2010/10/12/fending-off-willpower-depletion</id>
+    <content type="html"><![CDATA[<p>Response to my <a href="">post on ego depletion </a>from <a href="http://lesswrong.com/lw/2po/selfimprovement_or_shiny_distraction_why_less/2sib?c=1">Unnamed at LessWrong</a> (who also pointed me to the research in that post):</p>
+
+
+<p></p>
+
+
+<p></p>
+
+<blockquote>
+<span style="border-collapse: separate; color: #000000; font-family: Times New Roman; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; font-size: medium;"><span style="font-family: Arial,Helvetica,sans-serif; line-height: 19px; text-align: justify; font-size: small;"> </span></span>
+<p style="margin: 0px 0px 1em;">people come into the lab, they do one task that drains their willpower, then they get some intervention that might restore their willpower, then they do another task that requires willpower. This review by Baumeister, Vohs, and Tice (<a href="http://bama.ua.edu/%7Esprentic/101%20Baumeister%20et%20al.%202007-self%20control.pdf" rel="nofollow" style="color: #6a8a6b; text-decoration: underline;">pdf</a>) lists a few that have worked and gives citations:</p>
+<p style="margin: 0px 0px 1em;"> </p>
+<blockquote style="border-left: 2px solid #336699; padding-left: 4px; margin: 5px 15px 5px 5px;">
+<ul>
+<li>Humor and laughter</li>
+<li>Other positive emotions</li>
+<li>Cash incentives</li>
+<li>Implementation intentions (‘‘if ... then’’ plans)</li>
+<li>Social goals (e.g., wanting to help people; wanting to be a good relationship partner)</li>
+</ul>
+</blockquote>
+</blockquote>
+
+
+<p>I'll read the <span style="border-collapse: separate; color: #000000; font-family: Times New Roman; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; font-size: medium;"><span style="font-family: Arial,Helvetica,sans-serif; line-height: 19px; text-align: justify; font-size: small;"><a href="http://bama.ua.edu/%7Esprentic/101%20Baumeister%20et%20al.%202007-self%20control.pdf" rel="nofollow" style="color: #6a8a6b; text-decoration: underline;">pdf</a> later, but for now titrating a sweet food or drink seems like a cool willpower-boosting trick (I find that when I play beach volleyball for hours, I do better if I can have some chocolate, soda, or banana between games, but that's probably helping with the more obvious muscle glycogen depletion).<br> </span></span></p>
+
+]]></content>
+  </entry>
+  
+</feed>

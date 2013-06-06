@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: science | Science & Fun - Jonathan Graehl]]></title>
+  <link href="http://graehl.org/?tag=science/atom.xml" rel="self"/>
+  <link href="http://graehl.org/"/>
+  <updated>2013-06-05T18:19:42-07:00</updated>
+  <id>http://graehl.org/</id>
+  <author>
+    <name><![CDATA[Jonathan Graehl]]></name>
+    <email><![CDATA[graehl@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[explaining rat red-wine superpowers]]></title>
+    <link href="http://graehl.org/2013/03/18/explaining-rat-red-wine-superpowers/"/>
+    <updated>2013-03-18T17:32:11-07:00</updated>
+    <id>http://graehl.org/2013/03/18/explaining-rat-red-wine-superpowers</id>
+    <content type="html"><![CDATA[<div>Resveratrol, found in small amounts in red wine, is well-known to protect mice from aging and obesity. It's not yet known whether it works in humans (it's expensive enough that you wouldn't want to just take a bunch of it on speculation). There are some synthetic resveratrol analogues already developed in research, but again, they're not cheaply available (nor assuredly free of side effects).</div>
+
+
+<p> <p></p></p>
+
+<div>A fantastic series of experiments isolates the mechanism for the (in rats) benefits of the resveratrol-like family, confirming suspicions that it functions by activating a protein involved in energy metabolism, SIRT1*</div>
+
+
+<p> <p></p></p>
+
+<div>1. answer an objection (that an artificial fluourescent marker used in test tube studies linking resveratrol turned out to be necessary for the reaction to occur) by locating the third ingredient existing in the rat cells (tryptophan, a common amino acid, turned out to suffice).</div>
+
+
+<p> <p></p></p>
+
+<div>2. generate modified versions of SIRT1 by playing with mouse genes (because synthesizing organic chemicals is tricky; if you just want randomly different versions, you can do this by fuzzing genes of organisms that produce it**). It's expensive to analyze a complicated molecule, so they just looked at the gene versions (out of 2000 they generated) that had no benefit from resveratrol, and found some minimal change to the structure of regular SIRT1 that disables the effect. This is almost certainly where resveratrol acts on SIRT1.</div>
+
+
+<p> <p></p></p>
+
+<div>3. Using one of their 2000 mutant lines that blocked the resveratrol effect, they tried all the resveratrol-analogues, and found that none of them worked. This adds a little confidence that the analogues all work by the same mechanism.</div>
+
+
+<p> <p></p></p>
+
+<div>4. finally, they verify the results in (mouse) skin and muscle cells by replacing the normal SIRT1 gene w/ their mutant variant, and showing that this blocked the resveratrol benefit (they should have done a "placebo" version of this where they replace it with the normal version). I wonder why they can't do this for human cells? We mostly care if this can benefit humans.</div>
+
+
+<p> <p></p></p>
+
+<div>I wonder if enhancing SIRT1 will turn out to have harms as well as benefits. If not, then it can only be because producing resveratrol wasn't conveniently available as a mutation in mammals. We could also ask why we don't produce more SIRT1, even if we don't have a multiplier available to enhance its effectiveness. I'd guess that producing SIRT1 is expensive.</div>
+
+
+<p> <p></p></p>
+
+<div>
+<div>*  It's interesting that resveratrol enhances SIRT1 activity, because it's harder to find a chemical that speeds up a protein's good functions than it is to find one that interferes (usually by binding to the useful location to deny it to other parties).</div> </div>
+
+
+<p></p>
+
+
+<div>** although you don't necessarily build a full organism; it looks like they fuzzed the genes but did the reactions in a test tube?<br>
+</div>
+
+
+<p></p>
+
+
+<p><a href="http://hms.harvard.edu/news/new-study-validates-longevity-pathway-3-7-13">via</a> (Science, so it&rsquo;s peer reviewed)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[omega-6 (vegetable oil) harmful (N=500, P=.05, large effect)]]></title>
+    <link href="http://graehl.org/2013/03/15/omega-6-vegetable-oil-harmful-n500-p05-large/"/>
+    <updated>2013-03-15T06:13:58-07:00</updated>
+    <id>http://graehl.org/2013/03/15/omega-6-vegetable-oil-harmful-n500-p05-large</id>
+    <content type="html"><![CDATA[<p>One of the main claims of &ldquo;paleo&rdquo; bloggers is that it&rsquo;s better to have saturated fat than polyunsaturated vegetable oils (except flaxseed oil), that omega-3 is good polyunsaturated and omega-6 is bad past some ratio of 6:3.<p></p></p>
+
+<div>Experts endorsed by the US gov, Harvard, and in general the high-status pro diet/medicine institution got this badly wrong, <a href="http://blog.sethroberts.net/2013/03/15/omega-6-is-bad-for-you/">Seth Roberts notes</a> that there's some strong new evidence (<a href="http://www.bmj.com/content/346/bmj.e8707">reanalysis of existing randomized/controlled N=500 data</a>):<br> </div>
+
+
+<p></p>
+
+
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">
+<p style="color: rgb(51,51,51); font-family: Trebuchet MS,Lucida Grande,Verdana,Arial,sans-serif; font-size: 14px; line-height: 18.71875px; text-align: justify; background-color: rgb(153,204,153);"> As these studies go, it was relatively small, only about 500 subjects. The main results:</p>
+<blockquote style="color: rgb(119,119,119); margin: 15px 30px 0px 10px; padding-left: 20px; border-left-width: 5px; border-left-style: solid; border-left-color: rgb(221,221,221); font-family: Trebuchet MS,Lucida Grande,Verdana,Arial,sans-serif; font-size: 14px; line-height: 18.71875px; text-align: justify; background-color: rgb(153,204,153);"> <p>Compared with the control group, <strong>the intervention group had an increased risk of all cause mortality (17.6% v 11.8%</strong>[emphasis added]; hazard ratio 1.62 (95% confidence interval 1.00 to 2.64); P=0.051), cardiovascular mortality (17.2% v 11.0%; 1.70 (1.03 to 2.80); P=0.037), and mortality from coronary heart disease (16.3% v 10.1%; 1.74 (1.04 to 2.92); P=0.036).</p> </blockquote>
+<p style="color: rgb(51,51,51); font-family: Trebuchet MS,Lucida Grande,Verdana,Arial,sans-serif; font-size: 14px; line-height: 18.71875px; text-align: justify; background-color: rgb(153,204,153);">A 50% increase in death rate! The safflower oil was so damaging that even this small study yielded significant differences.</p> <p style="color: rgb(51,51,51); font-family: Trebuchet MS,Lucida Grande,Verdana,Arial,sans-serif; font-size: 14px; line-height: 18.71875px; text-align: justify; background-color: rgb(153,204,153);">The authors go on to show that this result (omega-6 is bad for you) is supported by other studies. Walter Willett and countless other experts were quite wrong on the biggest health issue of our time (how to reduce heart disease, the #1 cause of death).</p> </blockquote>
+
+
+<div>I'm still prepared to accept that, for whatever reason, red meat intake is correlated with (even causes) a large increase in mortality (heart disease and colon cancer if I recall correctly). But is the saturated fat the culprit? And the type of diet fed to beef makes a difference in the lipids we consume (feed them with omega 6 or trans fats and it would be understandably unhealthy to eat). But pros were wrong about cholesterol (lowering it with statins is harmful) and vegetable oil.</div>
+
+
+<p></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[bone broth has (some) lead]]></title>
+    <link href="http://graehl.org/2013/02/27/bone-broth-has-some-lead/"/>
+    <updated>2013-02-27T17:52:37-08:00</updated>
+    <id>http://graehl.org/2013/02/27/bone-broth-has-some-lead</id>
+    <content type="html"><![CDATA[<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">
+<span style="">bones are known to sequester the heavy metal lead, contamination with which is widespread throughout the modern environment. Such sequestered lead can then be mobilised from the bones ... </span><span style=""> </span><span style="">broth made from skin and cartilage [of already cooked chicken] </span><span style="">and chicken-bone broth, were both found to have markedly high lead concentrations, of 9.5 and 7.01 μg L</span><sup style="">−1</sup><br> </blockquote>
+
+
+<p></p>
+
+
+<p><a href="http://www.sciencedirect.com/science/article/pii/S0306987713000133">via</a><p></p></p>
+
+<div>Caveat: this is only 10x the amount in their tap water. I'm not sure if this is enough to matter, but small amounts of lead hurt IQ detectably (on a population level)</div>
+
+
+<p></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[chronic 6hr/night sleep -> incompetence]]></title>
+    <link href="http://graehl.org/2013/02/21/chronic-6hrnight-sleep-incompetence/"/>
+    <updated>2013-02-21T18:48:00-08:00</updated>
+    <id>http://graehl.org/2013/02/21/chronic-6hrnight-sleep-incompetence</id>
+    <content type="html"><![CDATA[<div>"chronic restriction of sleep to 6 h or less per night produced cognitive performance deficits equivalent to up to 2 nights of total sleep deprivation." [4hrs/night after 7 days, or 6hrs/night after 14 days, is about the same as skipping a night's sleep, as far as your competence goes - but not your sleepiness]</div>
+
+
+<p></p>
+
+
+<div><a href="http://web2.med.upenn.edu/uep/user_documents/VanDongen_etal_Sleep_26_2_2003.pdf">via</a></div>
+
+
+<p></p>
+
+
+<div>Subjective sleepiness doesn't track impairment. In other words, you can feel the same sorta-tired constantly for a few weeks while your performance keeps getting worse.</div>
+
+
+<p></p>
+
+
+<div>The study looks at restricted sleep over a 2 week period. The quantity that predicts impairment best isn't "sleep debt" with respect to an ideal 8hr/night target, but rather "extra hours awake, cumulative" (so if you steal an extra 2hr/day for 10 days, by the end you're as impaired as at the end of a 36hr stretch of wakefulness - because normally you're awake 16hrs). The "sleep debt from 8hr/night", depending on how you calculate it, at the end of 36hr awake, would probably be considered only (36hr*(8hr/24hr))=12hr, or more optimistically, (16hr awake, should have slept 8hr, but slept 0hr, 16hr awake, should have slept another 4/3 hr, but slept 0hr, awake 4hr, for a total of 36hr awake, 9.333 hr debt). </div>
+
+
+<p></p>
+
+
+<div>See also <a href="http://tononi.psychiatry.wisc.edu/research_overview.php%20">Tononi's</a> hypothesis <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;ved=0CEEQFjAB&amp;url=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.213.204%26rep%3Drep1%26type%3Dpdf&amp;ei=gtkmUYPIH4XLsgaZhoAQ&amp;usg=AFQjCNHktWfsSEs0aoIRwjEy6nlZ7oMLzQ&amp;sig2=ooR949HVMriB_bv6TFWHrg&amp;bvm=bv.42768644,d.Yms">(paper)</a>
+</div>
+
+
+<p></p>
+
+
+<div>(via <a href="http://gwern.net">gwern</a>)</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA['IKEA effect' (loving the crappy furniture that you assembled)]]></title>
+    <link href="http://graehl.org/2013/02/06/ikea-effect-loving-the-crappy-furniture-that/"/>
+    <updated>2013-02-06T19:38:10-08:00</updated>
+    <id>http://graehl.org/2013/02/06/ikea-effect-loving-the-crappy-furniture-that</id>
+    <content type="html"><![CDATA[<p>People who assembled IKEA furniture themselves will pay more for the assembled object than for the same, pre-assembled (80 cents instead of 50 cents). Why? People value their time spent and can&rsquo;t escape the sunk-cost fallacy? Consistency? (&ldquo;I wouldn&rsquo;t have assembled it if it weren&rsquo;t worth assembling&rdquo; &ndash; though they were paid to participate). <br><div>When you perform unskilled labor, do you value your time at the price of unskilled labor? </div></p>
+
+<p></p>
+
+
+<div>Does this hold for more valuable objects?<br><p></p>
+<div><a href="http://www.hbs.edu/faculty/Publication%20Files/11-091.pdf">study</a></div> </div>
+
+]]></content>
+  </entry>
+  
+</feed>
