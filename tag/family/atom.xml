@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: family | Science & Fun - Jonathan Graehl]]></title>
+  <link href="http://graehl.org/tag/family/atom.xml" rel="self"/>
+  <link href="http://graehl.org/"/>
+  <updated>2013-06-05T17:34:19-07:00</updated>
+  <id>http://graehl.org/</id>
+  <author>
+    <name><![CDATA[Jonathan Graehl]]></name>
+    <email><![CDATA[graehl@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[baby]]></title>
+    <link href="http://graehl.org/2011/09/01/baby/"/>
+    <updated>2011-09-01T17:22:42-07:00</updated>
+    <id>http://graehl.org/2011/09/01/baby</id>
+    <content type="html"><![CDATA[<p>my sister andrea&rsquo;s. a bundle of reflexes. almost no understanding of anything. tries to nurse my shirt and my beard.<p></p></p>
+
+<div class="p_embed p_image_embed">
+<img alt="Gabe" src="http://graehl.org/images/2011/09/01/baby/31131409-gabe.100_1442.JPG">
+<img alt="Gabe" src="http://graehl.org/images/2011/09/01/baby/31131409-gabe.100_1442.JPG">
+<img alt="Gabe" src="http://graehl.org/images/2011/09/01/baby/31131409-gabe.100_1442.JPG">
+<img alt="Gabe" src="http://graehl.org/images/2011/09/01/baby/31131409-gabe.100_1442.JPG">
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: diet | Science & Fun - Jonathan Graehl]]></title>
+  <link href="http://graehl.org/tag/diet/atom.xml" rel="self"/>
+  <link href="http://graehl.org/"/>
+  <updated>2013-06-05T17:34:19-07:00</updated>
+  <id>http://graehl.org/</id>
+  <author>
+    <name><![CDATA[Jonathan Graehl]]></name>
+    <email><![CDATA[graehl@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[changes in drinking support "moderate alcohol extends lifespan"]]></title>
+    <link href="http://graehl.org/2012/11/22/changes-in-drinking-support-moderate-alcohol/"/>
+    <updated>2012-11-22T15:44:11-08:00</updated>
+    <id>http://graehl.org/2012/11/22/changes-in-drinking-support-moderate-alcohol</id>
+    <content type="html"><![CDATA[<p>A large population (not randomized) <a href="http://journals.lww.com/epidem/Abstract/2004/03000/Changes_in_Alcohol_Intake_and_Mortality__A.16.aspx">study that measures naturally occurring changes in alcohol drinking habits support</a>s a years-old hypothesis that the right amount of drinking extends lifespan. Up until now, I wondered whether there was any evidence for causality at all (as opposed to: the type of people who drink a moderate amount are the ones who already were going to live longest, and if you adjust your alcohol intake to that intending to live longer, it won&rsquo;t change anything about your underlying risk of death).<p></p></p>
+
+<div>relative mortality (higher is worse) for before/after alcohol consumption (5 year interval):</div>
+
+
+<p></p>
+
+
+<div>1.29 non,non (<div>1.32 heavy,heavy (&gt;13/wk) - also higher cancer risk</div> <div>1.0 moderate,moderate (between 1-13 drinks/wk)</div>
+<p></p>
+<div>relative heart disease mortality for before/after:</div>
+<div>1.32 non (<div>1.4 light (1-6/wk) -&gt; non (perhaps they stopped drinking because of heart problems, though</div> <div>0.7 non-&gt;light (if you hardly drink at all, and for some reason decide to drink a little, you'll push back heart disease death by a few years)</div>
+<p></p>
+<div>(<a href="http://graehl.org/more-low-dose-alcohol-is-good-for-you">other evidence of "moderate drinking better than abstienence</a>")</div> <p></p>
+<div>
+<a href="http://squid314.livejournal.com/342696.html">via</a> (also including links to even stronger <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2549555/pdf/bmj00591-0021.pdf">wine-benefits</a> evidence (0.5 *OVERALL MORTALITY* compared to abstinence, although I'm nearly sure that one is badly confounded by socio-economic status)</div>
+</div>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[anti- alternative milk]]></title>
+    <link href="http://graehl.org/2012/05/26/anti-alternative-milk/"/>
+    <updated>2012-05-26T13:36:25-07:00</updated>
+    <id>http://graehl.org/2012/05/26/anti-alternative-milk</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve had some raw milk from <a href="http://www.yelp.com/biz/sprouts-farmers-market-culver-city">Sprouts</a> and can&rsquo;t get excited enough about it to pay 3x (for whole milk) and possibly risk severe food poisoning (the chance isn&rsquo;t high, but the severity can be).<p></p></p>
+
+<div>
+<a href="http://www.kitchenstewardship.com/2010/06/23/the-real-story-of-homogenized-milk-powdered-milk-skim-milk-and-oxidized-cholesterol/">This woman's investigation</a> deflates many pro-raw claims (her method is to ask experts and industry representatives, which seems solid):</div>
+
+
+<p> <p></p></p>
+
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">
+<blockquote style="padding: 0px 0px 0px 10px; margin: 0px 30px 1.5em; font-family: Georgia,Times New Roman,Times,serif; color: rgb(85,85,85); border-left-width: 1px; border-left-style: solid; border-left-color: rgb(170,170,170); font-size: 14px; line-height: 23px; text-align: left; background-color: rgb(255,255,255);"> <p style="padding: 0px; margin: 0px 0px 1.5em;">Homogenization is done by forcing milk through a small geometry valve at very high pressures (1500-2500 psi).  The effect of this treatment is to break the natural fat globule (average size ~10 micrometers) into  much smaller fat globules (average size  </p>
+<p style="padding: 0px; margin: 0px 0px 1.5em;">Within the first 10-20 seconds after homogenization, proteins and segments of the original membrane form a new membrane on the surface of the smaller fat globules.  The addition of the protein to the surface of the fat globules and the reduction in the size of the globules results in the reduction in the ability of the globules to float to the top of the milk.  During this process, the milkfat is not exposed to air as the process is done in an air tight system containing only milk.  Milkfat is made up of 98% triglycerides, which are extremely stable to changes during processing.  The only way that milk will spoil faster after homogenization is if the homogenizing system is not properly cleaned and sanitized.</p> <p style="padding: 0px; margin: 0px 0px 1.5em;">Another factor that may be thrown out is the xanthine oxidase.  Dr. K. Oster proposed a theory in 1971 that xanthine oxidase released from the milk fat globule membrane during homogenization was a contributor to atherosclerosis.  To this end, I would have you read the <a href="http://www.ajcn.org/cgi/content/abstract/38/2/327" rel="nofollow" target="_blank" style="padding: 0px; margin: 0px; color: rgb(51,51,51);">following review article</a>.</p> <p style="padding: 0px; margin: 0px 0px 1.5em;">There is not much if any support for this theory but a lot of people are still using it to scare customers into paying higher prices for cream-line milk.</p>
+</blockquote>
+<p style="padding: 0px; margin: 0px 0px 1.5em; color: rgb(51,51,51); font-family: Georgia,Times New Roman,Times,serif; font-size: 14px; line-height: 23px; text-align: left; background-color: rgb(255,255,255);"> Dr. Partridge drinks homogenized store milk himself, although he said he has to take the jugs from the back to avoid the “light oxidized flavor that is prevalent in milk stored under direct fluorescent lighting.” This is not a man who drinks milk without consciousness.</p> </blockquote>
+
+
+<div>Her thinking seems high quality (although she's in-your-face Christian). Recommended. </div>
+
+
+<p></p>
+
+
+<div>If there's anything scary in your cow's diet (I wish I could get grass-fed cow milk easily), it will likely be in the fats, she points out. So cheap skim milk mixed with high quality cream makes sense.</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[wine: ignorance is bliss]]></title>
+    <link href="http://graehl.org/2012/02/27/wine-ignorance-is-bliss/"/>
+    <updated>2012-02-27T11:16:40-08:00</updated>
+    <id>http://graehl.org/2012/02/27/wine-ignorance-is-bliss</id>
+    <content type="html"><![CDATA[<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;"><span style="font-family: arial,sans-serif; font-size: 14px; background-color: rgb(255,255,255);">individuals who are unaware of the price do not derive more enjoyment from more expensive wine.</span></blockquote>
+
+
+<p> <p></p></p>
+
+<div>
+<a href="http://www.wine-economics.org/workingpapers/AAWE_WP16.pdf">Study.</a> </div>
+
+
+<p></p>
+
+
+<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;"> <blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">[People] on average enjoy more expensive </blockquote> <blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">wines slightly  less. For individuals with wine training, however, we find </blockquote> <blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">indications of a positive relationship between price and enjoyment</blockquote> </blockquote>
+
+
+<p></p>
+
+
+<div>Experts have different tastes. So expert recommendations are not useful unless you're also an expert.</div>
+
+
+<p></p>
+
+
+<div>How do you get to be an expert? I presume, by aligning your preferences with those of the experts. </div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Vitamin E won't kill you either]]></title>
+    <link href="http://graehl.org/2011/11/12/vitamin-e-wont-kill-you-either/"/>
+    <updated>2011-11-12T10:45:00-08:00</updated>
+    <id>http://graehl.org/2011/11/12/vitamin-e-wont-kill-you-either</id>
+    <content type="html"><![CDATA[<p>Controlled studies where one group is given Vitamin E and the other a placebo have found no significant harm or benefit at reasonable dose levels:</p>
+
+
+<p></p>
+
+
+<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: #cccccc; border-left-style: solid; padding-left: 1ex;">
+<span style="">Three other meta-analyses that combined the results of </span><a href="http://lpi.oregonstate.edu/infocenter/glossary.html#randomized%20controlled%20trial" style="">randomized controlled trials</a><span style=""> designed to evaluate the efficacy of vitamin E supplementation for the prevention or treatment of cardiovascular disease found no evidence that vitamin E supplementation up to 800 IU/day significantly increased or decreased cardiovascular disease mortality or all-cause mortality </span><a href="http://lpi.oregonstate.edu/infocenter/vitamins/vitaminE/erefs.html#ref73" style="">(73-75)</a><span style="">. Additionally, a more recent meta-analysis of 57 randomized controlled trials found that vitamin E supplementation, up to doses of 5,500 IU/day, had no effect on all-cause mortality </span><a href="http://lpi.oregonstate.edu/infocenter/vitamins/vitaminE/erefs.html#ref76" style="">(76)</a><span style="">. Furthermore, a meta-analysis of 68 randomized trials found that supplemental vitamin E, singly or in combination with other antioxidant supplements, did not significantly alter risk of all-cause mortality </span><a href="http://lpi.oregonstate.edu/infocenter/vitamins/vitaminE/erefs.html#ref77" style="">(77)</a><span style="">. At present, there is no convincing evidence that vitamin E supplementation up to 800 IU/day increases the risk of death from cardiovascular disease or other causes.</span>
+</blockquote>
+
+
+<p></p>
+
+
+<div>
+<a href="http://lpi.oregonstate.edu/infocenter/vitamins/vitaminE/">via the excellent Linus Pauling Institute</a> </div>
+
+
+<p></p>
+
+
+<div>I was worried about my new multivitamin's 200IU of Vitamin E, which is within a factor of 2 or 3 of the harmful-dose level I'd come to believe in after previous (non-controlled) studies.</div>
+
+
+<p></p>
+
+
+<div>About the <a href="http://graehl.org/omega-3-epadha-are-awesome-but-promote-kidney">meta-analysis showing higher mortality from Vitamin E I mentioned earlier</a>, LPI counters:</div>
+
+
+<p></p>
+
+
+<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: #cccccc; border-left-style: solid; padding-left: 1ex;">
+<span style="">[The study] reported that adults who took supplements of 400 IU/day or more were 6% more likely to die from any cause than those who did not take vitamin E supplements </span><a href="http://lpi.oregonstate.edu/infocenter/vitamins/vitaminE/erefs.html#ref72" style="">(72)</a><span style="">. However, further breakdown of the risk by vitamin E dose and adjustment for other vitamin and mineral supplements revealed that the increased risk of death was statistically significant only at a dose of 2,000 IU/day, which is higher than the </span><a href="http://lpi.oregonstate.edu/infocenter/glossary.html#ul" style="">UL</a><span style=""> for adults.</span>
+</blockquote>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[multivitamins won't kill you]]></title>
+    <link href="http://graehl.org/2011/10/17/multivitamins-wont-kill-you/"/>
+    <updated>2011-10-17T22:37:00-07:00</updated>
+    <id>http://graehl.org/2011/10/17/multivitamins-wont-kill-you</id>
+    <content type="html"><![CDATA[<p>so perhaps they'll make you stronger - <a href="http://www.ncbi.nlm.nih.gov/pubmed/21779961">a new vitamin supplementation study</a> demonstrates a "sick-user effect" - those who never took vitamins but suddenly started may have done so because they became seriously ill. This reverses <a href="http://graehl.org/multivitamin-benefits-roughly-equal-to-harms">my view based on past studies that multivitamins probably don't help</a> (though I'd continued taking mine, since the evidence was mixed).</p>
+
+
+<p></p>
+
+
+<div>The hazard ratio for baseline vitamin users is incredibly good (.58), which makes me assume that they haven't controlled for all the confounds, e.g. conscientiousness.<br>
+<p></p>
+<p></p>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>
