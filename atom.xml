@@ -4,7 +4,7 @@
   <title><![CDATA[Science & Fun - Jonathan Graehl]]></title>
   <link href="http://graehl.org/atom.xml" rel="self"/>
   <link href="http://graehl.org/"/>
-  <updated>2013-06-05T20:22:03-07:00</updated>
+  <updated>2013-06-06T17:21:21-07:00</updated>
   <id>http://graehl.org/</id>
   <author>
     <name><![CDATA[Jonathan Graehl]]></name>
@@ -12,6 +12,63 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Unconstitutional Pizza Delivery Dragnet / Failed AI Research Project]]></title>
+    <link href="http://graehl.org/2013/06/06/unconstitutional-pizza-delivery-dragnet-slash-failed-ai-research-project/"/>
+    <updated>2013-06-06T16:13:00-07:00</updated>
+    <id>http://graehl.org/2013/06/06/unconstitutional-pizza-delivery-dragnet-slash-failed-ai-research-project</id>
+    <content type="html"><![CDATA[<p>For this, we&rsquo;ve had our constitutionally-implied right to privacy ignored for the last decade or so:</p>
+
+<blockquote><p>Cases were referred to by FBI agents as &#8220;pizza cases&#8221; because many seemingly suspicious cases turned out to be food takeout orders.</p><p>[Suspicious Activity ReportS - SARS, get it?] revealed former New York governor Eliot Spitzer&#8217;s use of prostitutes, even though he was not suspected of terrorist activities.</p><footer><strong>Wikipedia Editors</strong> <cite><a href='http://en.wikipedia.org/wiki/Stellar_Wind_(code_name)'>Code Name: Stellar Wind</a></cite></footer></blockquote>
+
+
+<p><img class="right" src="http://www.martinoswebster.com/Pictures/pizza.jpg" width="712" height="357" title="pizza" ></p>
+
+<p>We could have waited until an anonymized research protocol proved a benefit before having the FBI needlessly harrass politicians mid-pizza-and/or-sperm-delivery: just use some cryptographic magic wherein the hashed identities are compared after terorrists/whatever become known by other means (this would be really easy to set up if you trusted a third party like the <a href="https://www.eff.org/deeplinks/2013/06/confirmed-nsa-spying-millions-americans">EFF</a>. Once we get that false positive rate below 100,000 innocent people per year, then we can talk. Until then, keep that stuff in the AI research community and they&rsquo;ll have something that can play Jeopardy with terrorists within the next few decades. As usual, project leaders with influence push adoption of something useless so they can claim it wasn&rsquo;t all just incremental progress too soon to deploy.</p>
+
+<p>PRISM, on the other hand, may actually provide some benefit now (spying, mostly on those foreigners who don&rsquo;t know they can use encryption):</p>
+
+<blockquote><p>The President’s Daily Brief, which cited PRISM data in 1,477 articles last year.</p><p>When critics of the foreign intelligence statute argued for changes, the only members of Congress who knew about PRISM were bound by oaths of office to hold their tongues.</p><p>A roster that bears their logos in order of entry into the program: “Microsoft, Yahoo, Google, Facebook, PalTalk, AOL, Skype, YouTube, Apple.” PalTalk, although much smaller, has hosted significant traffic during the Arab Spring and in the ongoing Syrian civil war.</p><p>Dropbox, the cloud storage and synchronization service, is described as “coming soon.”</p><footer><strong>Gellman and Poitras</strong> <cite><a href='http://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html'>Code Name: PRISM</a></cite></footer></blockquote>
+
+
+<p>So what if NSA can only lawfully pursue foreign intelligence? You have the FBI who I&rsquo;m sure are happy to claim a piece of the pie. And rubber stamped warrants have been in plentiful supply of late.</p>
+
+<p>Perhaps Dropbox can add another 250mb free storage each time the government rifles through your My Little Pony porno stash.</p>
+
+<blockquote><p>An order from the Foreign Intelligence Surveillance Court (or FISC) directs Verizon to provide “on an ongoing daily basis” all call records for any call “wholly within the United States, including local telephone calls” and any call made “between the United States and abroad.”</p><footer><strong>Glenn Greenwald</strong> <cite><a href='https://www.eff.org/deeplinks/2013/06/confirmed-nsa-spying-millions-americans'>EFF Summary of Glenn Greenwald&#8217;s Report</a></cite></footer></blockquote>
+
+
+<p>So, everything they can get their hands on.</p>
+
+<p>It makes sense that people want to use this info, for what they think are very good reasons. Yet I&rsquo;m not sure &ldquo;let everyone have access to the Panopticon, then we&rsquo;ll watch the watchers&rdquo; is exactly where we want our society defaults to lie, either. There are things I don&rsquo;t want to know about other people. Perhaps we people should punish those who signed off on this, patriots though they may be. But first, let&rsquo;s try whining really loudly, which amounts to the same thing as voting (namely, moves politicians to make empty promises).</p>
+]]></content>
+    <content type="html"><![CDATA[<p>For this, we&rsquo;ve had our constitutionally-implied right to privacy ignored for the last decade or so:</p>
+
+<blockquote><p>Cases were referred to by FBI agents as &#8220;pizza cases&#8221; because many seemingly suspicious cases turned out to be food takeout orders.</p><p>[Suspicious Activity ReportS - SARS, get it?] revealed former New York governor Eliot Spitzer&#8217;s use of prostitutes, even though he was not suspected of terrorist activities.</p><footer><strong>Wikipedia Editors</strong> <cite><a href='http://en.wikipedia.org/wiki/Stellar_Wind_(code_name)'>Code Name: Stellar Wind</a></cite></footer></blockquote>
+
+
+<p><img class="right" src="http://www.martinoswebster.com/Pictures/pizza.jpg" width="712" height="357" title="pizza" ></p>
+
+<p>We could have waited until an anonymized research protocol proved a benefit before having the FBI needlessly harrass politicians mid-pizza-and/or-sperm-delivery: just use some cryptographic magic wherein the hashed identities are compared after terorrists/whatever become known by other means (this would be really easy to set up if you trusted a third party like the <a href="https://www.eff.org/deeplinks/2013/06/confirmed-nsa-spying-millions-americans">EFF</a>. Once we get that false positive rate below 100,000 innocent people per year, then we can talk. Until then, keep that stuff in the AI research community and they&rsquo;ll have something that can play Jeopardy with terrorists within the next few decades. As usual, project leaders with influence push adoption of something useless so they can claim it wasn&rsquo;t all just incremental progress too soon to deploy.</p>
+
+<p>PRISM, on the other hand, may actually provide some benefit now (spying, mostly on those foreigners who don&rsquo;t know they can use encryption):</p>
+
+<blockquote><p>The President’s Daily Brief, which cited PRISM data in 1,477 articles last year.</p><p>When critics of the foreign intelligence statute argued for changes, the only members of Congress who knew about PRISM were bound by oaths of office to hold their tongues.</p><p>A roster that bears their logos in order of entry into the program: “Microsoft, Yahoo, Google, Facebook, PalTalk, AOL, Skype, YouTube, Apple.” PalTalk, although much smaller, has hosted significant traffic during the Arab Spring and in the ongoing Syrian civil war.</p><p>Dropbox, the cloud storage and synchronization service, is described as “coming soon.”</p><footer><strong>Gellman and Poitras</strong> <cite><a href='http://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html'>Code Name: PRISM</a></cite></footer></blockquote>
+
+
+<p>So what if NSA can only lawfully pursue foreign intelligence? You have the FBI who I&rsquo;m sure are happy to claim a piece of the pie. And rubber stamped warrants have been in plentiful supply of late.</p>
+
+<p>Perhaps Dropbox can add another 250mb free storage each time the government rifles through your My Little Pony porno stash.</p>
+
+<blockquote><p>An order from the Foreign Intelligence Surveillance Court (or FISC) directs Verizon to provide “on an ongoing daily basis” all call records for any call “wholly within the United States, including local telephone calls” and any call made “between the United States and abroad.”</p><footer><strong>Glenn Greenwald</strong> <cite><a href='https://www.eff.org/deeplinks/2013/06/confirmed-nsa-spying-millions-americans'>EFF Summary of Glenn Greenwald&#8217;s Report</a></cite></footer></blockquote>
+
+
+<p>So, everything they can get their hands on.</p>
+
+<p>It makes sense that people want to use this info, for what they think are very good reasons. Yet I&rsquo;m not sure &ldquo;let everyone have access to the Panopticon, then we&rsquo;ll watch the watchers&rdquo; is exactly where we want our society defaults to lie, either. There are things I don&rsquo;t want to know about other people. Perhaps we people should punish those who signed off on this, patriots though they may be. But first, let&rsquo;s try whining really loudly, which amounts to the same thing as voting (namely, moves politicians to make empty promises).</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Aquatic Apes Became Humans?]]></title>
@@ -371,23 +428,6 @@ gifted composer. Killer piano chops, too.</p>
     <content type="html"><![CDATA[<div>very good: <a href="http://www.imdb.com/title/tt1856010/" target="_blank">House of Cards</a>, <a href="http://www.imdb.com/media/rm1148493568/tt0119167">Funny Games (1997)</a> (director of Amour - but less boring this time)</div> <p></p>good: <a href="http://www.imdb.com/title/tt0091830/?ref_=fn_al_tt_1" target="_blank">Le Rayon Vert</a> (some lingering images - it&#8217;s growing on me)
 ]]></content>
     <content type="html"><![CDATA[<div>very good: <a href="http://www.imdb.com/title/tt1856010/" target="_blank">House of Cards</a>, <a href="http://www.imdb.com/media/rm1148493568/tt0119167">Funny Games (1997)</a> (director of Amour - but less boring this time)</div> <p></p>good: <a href="http://www.imdb.com/title/tt0091830/?ref_=fn_al_tt_1" target="_blank">Le Rayon Vert</a> (some lingering images - it&#8217;s growing on me)
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA['IKEA effect' (loving the crappy furniture that you assembled)]]></title>
-    <link href="http://graehl.org/2013/02/06/ikea-effect-loving-the-crappy-furniture-that/"/>
-    <updated>2013-02-06T19:38:10-08:00</updated>
-    <id>http://graehl.org/2013/02/06/ikea-effect-loving-the-crappy-furniture-that</id>
-    <content type="html"><![CDATA[People who assembled IKEA furniture themselves will pay more for the assembled object than for the same, pre-assembled (80 cents instead of 50 cents). Why? People value their time spent and can&#8217;t escape the sunk-cost fallacy? Consistency? (&#8220;I wouldn&#8217;t have assembled it if it weren&#8217;t worth assembling&#8221; - though they were paid to participate). <br><div>When you perform unskilled labor, do you value your time at the price of unskilled labor? </div>
-<p></p>
-<div>Does this hold for more valuable objects?<br><p></p>
-<div><a href="http://www.hbs.edu/faculty/Publication%20Files/11-091.pdf">study</a></div> </div>
-]]></content>
-    <content type="html"><![CDATA[People who assembled IKEA furniture themselves will pay more for the assembled object than for the same, pre-assembled (80 cents instead of 50 cents). Why? People value their time spent and can&#8217;t escape the sunk-cost fallacy? Consistency? (&#8220;I wouldn&#8217;t have assembled it if it weren&#8217;t worth assembling&#8221; - though they were paid to participate). <br><div>When you perform unskilled labor, do you value your time at the price of unskilled labor? </div>
-<p></p>
-<div>Does this hold for more valuable objects?<br><p></p>
-<div><a href="http://www.hbs.edu/faculty/Publication%20Files/11-091.pdf">study</a></div> </div>
 ]]></content>
   </entry>
   
