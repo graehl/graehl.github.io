@@ -4,7 +4,7 @@
   <title><![CDATA[Category: science | Science & Fun - Jonathan Graehl]]></title>
   <link href="http://graehl.org/tag/science/atom.xml" rel="self"/>
   <link href="http://graehl.org/"/>
-  <updated>2013-06-07T14:28:09-07:00</updated>
+  <updated>2013-06-11T23:14:27-07:00</updated>
   <id>http://graehl.org/</id>
   <author>
     <name><![CDATA[Jonathan Graehl]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Delusional Self-Esteem vs. Social Isolation]]></title>
+    <link href="http://graehl.org/2013/06/11/delusional-self-esteem-vs-social-isolation/"/>
+    <updated>2013-06-11T23:06:00-07:00</updated>
+    <id>http://graehl.org/2013/06/11/delusional-self-esteem-vs-social-isolation</id>
+    <content type="html"><![CDATA[<p>People who feel isolated seek out existing allies and increase their criticism of non-allies (hello, Internet!). Apparently these routines (and so probably the feeling of isolation) can be suppressed by imagining yourself invulnerable to physical injury. Previous studies have shown that ibuprofen reduces the pain of social rejection.</p>
+
+<p><blockquote><p></p></p><p><p>Simulating physical invulnerability lessened exclusion-triggered negative attitudes toward stigmatized groups, and<br/>simulating physical invulnerability lessened the desire for social connection.</p></p><p><p>[They fantasized] “It will be an amazing ability, but you must keep it absolutely secret. If you purposely tell anyone or show off your power, you will lose it forever.’”</p></p><p><p></p><footer><strong>Seriously</strong> <cite>Science? <a href="http://blogs.discovermagazine.com/seriouslyscience/?p=305">http://blogs.discovermagazine.com/seriouslyscience/?p=305</a> Pretending to Have Superpowers</cite></footer></blockquote></p>
+
+<p>Compared to people who imagined gaining the ability to fly (secretly), people who imagined (secret) physical invulnerability executed less of the anti-isolation routines like putting down outsiders or socializing positively with allies.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Aquatic Apes Became Humans?]]></title>
@@ -132,47 +145,6 @@ environment.</p>
 
 
 <p></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[chronic 6hr/night sleep -> incompetence]]></title>
-    <link href="http://graehl.org/2013/02/21/chronic-6hrnight-sleep-incompetence/"/>
-    <updated>2013-02-21T18:48:00-08:00</updated>
-    <id>http://graehl.org/2013/02/21/chronic-6hrnight-sleep-incompetence</id>
-    <content type="html"><![CDATA[<div>"chronic restriction of sleep to 6 h or less per night produced cognitive performance deficits equivalent to up to 2 nights of total sleep deprivation." [4hrs/night after 7 days, or 6hrs/night after 14 days, is about the same as skipping a night's sleep, as far as your competence goes - but not your sleepiness]</div>
-
-
-<p></p>
-
-
-<div><a href="http://web2.med.upenn.edu/uep/user_documents/VanDongen_etal_Sleep_26_2_2003.pdf">via</a></div>
-
-
-<p></p>
-
-
-<div>Subjective sleepiness doesn't track impairment. In other words, you can feel the same sorta-tired constantly for a few weeks while your performance keeps getting worse.</div>
-
-
-<p></p>
-
-
-<div>The study looks at restricted sleep over a 2 week period. The quantity that predicts impairment best isn't "sleep debt" with respect to an ideal 8hr/night target, but rather "extra hours awake, cumulative" (so if you steal an extra 2hr/day for 10 days, by the end you're as impaired as at the end of a 36hr stretch of wakefulness - because normally you're awake 16hrs). The "sleep debt from 8hr/night", depending on how you calculate it, at the end of 36hr awake, would probably be considered only (36hr*(8hr/24hr))=12hr, or more optimistically, (16hr awake, should have slept 8hr, but slept 0hr, 16hr awake, should have slept another 4/3 hr, but slept 0hr, awake 4hr, for a total of 36hr awake, 9.333 hr debt). </div>
-
-
-<p></p>
-
-
-<div>See also <a href="http://tononi.psychiatry.wisc.edu/research_overview.php%20">Tononi's</a> hypothesis <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;ved=0CEEQFjAB&amp;url=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.213.204%26rep%3Drep1%26type%3Dpdf&amp;ei=gtkmUYPIH4XLsgaZhoAQ&amp;usg=AFQjCNHktWfsSEs0aoIRwjEy6nlZ7oMLzQ&amp;sig2=ooR949HVMriB_bv6TFWHrg&amp;bvm=bv.42768644,d.Yms">(paper)</a>
-</div>
-
-
-<p></p>
-
-
-<div>(via <a href="http://gwern.net">gwern</a>)</div>
-
 ]]></content>
   </entry>
   
