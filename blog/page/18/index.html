@@ -7,7 +7,7 @@
 	<meta name="author" content="Jonathan Graehl">
 
 	
-	<meta name="description" content="From the paper in the previous post: When people expect to have to exert self-control later, they will curtail current performance more severely &hellip;">
+	<meta name="description" content="Resveratrol has gotten a lot of press as a life-extender, mostly because people love an excuse to consume red wine and dark chocolate. But the &hellip;">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -87,6 +87,42 @@
 		
 	
 	<div id="content" class="inner">
+
+
+    <article class="post">
+	<h2 class="title">
+		
+		<a href="/2010/10/14/resveratrol-at-10-times-a-realistic-dose-only/">
+		
+			Resveratrol at 10 Times a Realistic Dose Only Extends Worms&#8217; Life by 4%</a>
+	</h2>
+	<div class="entry-content">
+		      Resveratrol has gotten a lot of press as a life-extender, mostly because people love an excuse to consume red wine and dark chocolate. But the expected effect of a heroically resveratrol-heavy diet on humans is <a href="http://pipeline.corante.com/archives/2010/10/08/does_resveratrol_really_work_and_does_srt1720.php">probably so small as to be practically undetectable</a>. Even in concentrated pill form, the quantity that would be equivalent to what extends nematode lifespan by 4% would be difficult to consume (and presently quite expensive).<p></p>  Just enjoy the placebo effect when you munch on your dark chocolate bar and sip your red wine.<p></p>  (thanks, <a href="http://lesswrong.com/r/discussion/lw/2ug/resveratrol_continues_to_be_useless/">gwern</a>)
+
+		
+		
+	</div>
+
+
+<div class="meta">
+	<div class="date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-10-14T12:46:00-07:00" pubdate data-updated="true">Oct 14<span>th</span>, 2010</time></div>
+	<div class="tags">
+
+</div>
+	
+</div></article>
 
 
     <article class="post">
@@ -926,42 +962,6 @@
 
 
 <time datetime="2010-08-30T14:21:24-07:00" pubdate data-updated="true">Aug 30<span>th</span>, 2010</time></div>
-	<div class="tags">
-
-</div>
-	
-</div></article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/2010/07/12/erroneous-proof-of-nppspace/">
-		
-			Erroneous Proof of NP=PSPACE</a>
-	</h2>
-	<div class="entry-content">
-		      I was excited to see a claim that <a href="http://arxiv.org/abs/1007.1868">NP=PSPACE</a> (<a href="http://arxiv.org/pdf/1007.1868v1">pdf</a>) on the <a href="http://feedworld.net/toc/">Theory of Computing Blog Aggregator</a>.<p></p>  Unfortunately, Lemma 3 is in error.  A simple counterexample: the QBF &#8220;Ay Ex p(x,y)&#8221; where p(x,y)=&#8221;(x or not(y)) and (not(x) or y)&#8221; is predicted by Lemma 3 to be equivalent to &#8220;Ex x and not(x)&#8221; which is false.  (A means for all, E means exists).  But suppose y is false - then x=false makes p(x,y) true.  Alternatively, let y be true - then x=true makes p(x,y) true.  This means that for all y, there&#8217;s an x such that p(x,y), which is the original QBF.<p></p>  For PSPACE to be in NP, you would need to be able to verify short proofs (of polynomial size and in polynomial time) verifying the correctness of a program&#8217;s output (provided the program uses space bounded by some polynomial of the input size).  That would be amazing.
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2010-07-12T21:33:25-07:00" pubdate data-updated="true">Jul 12<span>th</span>, 2010</time></div>
 	<div class="tags">
 
 </div>
