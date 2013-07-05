@@ -4,7 +4,7 @@
   <title><![CDATA[Category: willpower | Science & Fun - Jonathan Graehl]]></title>
   <link href="http://graehl.org/tag/willpower/atom.xml" rel="self"/>
   <link href="http://graehl.org/"/>
-  <updated>2013-06-25T13:04:44-07:00</updated>
+  <updated>2013-07-05T16:37:04-07:00</updated>
   <id>http://graehl.org/</id>
   <author>
     <name><![CDATA[Jonathan Graehl]]></name>
@@ -12,6 +12,67 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lying Adults and Lying Experiments]]></title>
+    <link href="http://graehl.org/2013/07/05/lying-adults/"/>
+    <updated>2013-07-05T16:01:00-07:00</updated>
+    <id>http://graehl.org/2013/07/05/lying-adults</id>
+    <content type="html"><![CDATA[<p>Via <a href="http://lesswrong.com/lw/hw6/a_new_interpretation_of_the_marshmallow_test/#comments">Less Wrong discussion</a></p>
+
+<p>A famous experiment showed that children who believe an adult&rsquo;s
+promise to have two marshmallows if they&rsquo;ll wait a few minutes without
+eating the marshmallow in front of them are more successful later in
+life. Finally someone has raised what should
+be an obvious objection: maybe the less succesful adults were children
+with bad parents and teachers, whose word couldn&rsquo;t be trusted. That
+is, a possible common cause of adult failure and childhood
+marshmallow-scarfing is distrust of authority.</p>
+
+<p>They even performed an unsurprising experiment: the adults running it
+lie to the kids a few times, and then try the
+delayed-marshmallow-gratification promise. I&rsquo;m not sure what we&rsquo;re
+supposed to learn from this as it&rsquo;s completely expected that people,
+even kids, won&rsquo;t keep trusting in an environment where they&rsquo;re
+repeatedly cheated. What&rsquo;s needed is to quantify separate influence
+from &lsquo;trusting adult promises&rsquo; vs. &lsquo;having innate willpower&rsquo;, which
+neither the original marshmallow setup nor this one can manage.</p>
+
+<p><img class="right <a" src="href="http://firewhenreadypottery.com/wp-content/uploads/2010/07/HUGE-marshmallow-768x1024.jpg">http://firewhenreadypottery.com/wp-content/uploads/2010/07/HUGE-marshmallow-768x1024.jpg</a>" width="768" height="1024" title="marshmallow" ></p>
+
+<p>Study link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027712001849">Rational snacking</a></p>
+
+<p>The problem is merely in the over-confident interpretations of very
+coarse evidence. The VERY SMART SCIENTISTS write a nice hypothesis in
+their paper and it gets bandied about in the press, but really they
+need many more nuanced experiments (not just replication) before we
+should really believe their explanation.</p>
+
+<p>For example, it seems that people in a lab-experiment setting pretend
+to be nicer than they really are (or have fellow-feeling for their
+experiment-mates):</p>
+
+<p><blockquote><p></p></p><p><p>[As to how] how much Dictator Game giving is due to people knowing they’re in an experiment, the answer is, “all of it.”</p></p><p><p></p><footer><strong>Robert Kurzban <a href="http://www.epjournal.net/blog/2013/05/are-all-dictator-game-results-artifacts/">http://www.epjournal.net/blog/2013/05/are-all-dictator-game-results-artifacts/</a> Are All Dictator Game Results Artifacts?</strong></footer></blockquote></p>
+
+<p>When given a chance to split a $20 gift of poker chips in Vegas with
+the one person right next to them, if people are told they&rsquo;re (both)
+in an experiment, 80% give at least $1 with the median being $5 (they
+keep $15). Otherwise (out of 60 subjects), they never give
+anything. (The use of chips is interesting &ndash; it adds to the
+plausibility of the stealth-experiment case, but it&rsquo;s also pretty well
+known that using things further from physical cash makes people less
+loss-averse and perhaps more loose &ndash; see Club Med beads and carnival
+tickets).</p>
+
+<p>Anyway, as Kurzban points out, the Dictator Game was originally only
+used as a control for the <em>effect</em> of being in an experiment, for the
+more interesting Ultimatum game, where the person choosing the split
+can have it vetoed by an offended recipient of a too-low offer (in
+which case neither get anything). It&rsquo;s certainly a valid control &ndash;
+this is just a reminder not to get too optimistic about how altruistic
+people are to genuine strangers (rather than their fellow lab-rats).</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[More research on willpower]]></title>
@@ -159,40 +220,6 @@
 
 
 <p>I mentioned this <a href="">earlier</a>.</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[fending off willpower depletion]]></title>
-    <link href="http://graehl.org/2010/10/12/fending-off-willpower-depletion/"/>
-    <updated>2010-10-12T23:03:00-07:00</updated>
-    <id>http://graehl.org/2010/10/12/fending-off-willpower-depletion</id>
-    <content type="html"><![CDATA[<p>Response to my <a href="">post on ego depletion </a>from <a href="http://lesswrong.com/lw/2po/selfimprovement_or_shiny_distraction_why_less/2sib?c=1">Unnamed at LessWrong</a> (who also pointed me to the research in that post):</p>
-
-
-<p></p>
-
-
-<p></p>
-
-<blockquote>
-<span style="border-collapse: separate; color: #000000; font-family: Times New Roman; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; font-size: medium;"><span style="font-family: Arial,Helvetica,sans-serif; line-height: 19px; text-align: justify; font-size: small;"> </span></span>
-<p style="margin: 0px 0px 1em;">people come into the lab, they do one task that drains their willpower, then they get some intervention that might restore their willpower, then they do another task that requires willpower. This review by Baumeister, Vohs, and Tice (<a href="http://bama.ua.edu/%7Esprentic/101%20Baumeister%20et%20al.%202007-self%20control.pdf" rel="nofollow" style="color: #6a8a6b; text-decoration: underline;">pdf</a>) lists a few that have worked and gives citations:</p>
-<p style="margin: 0px 0px 1em;"> </p>
-<blockquote style="border-left: 2px solid #336699; padding-left: 4px; margin: 5px 15px 5px 5px;">
-<ul>
-<li>Humor and laughter</li>
-<li>Other positive emotions</li>
-<li>Cash incentives</li>
-<li>Implementation intentions (‘‘if ... then’’ plans)</li>
-<li>Social goals (e.g., wanting to help people; wanting to be a good relationship partner)</li>
-</ul>
-</blockquote>
-</blockquote>
-
-
-<p>I'll read the <span style="border-collapse: separate; color: #000000; font-family: Times New Roman; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; font-size: medium;"><span style="font-family: Arial,Helvetica,sans-serif; line-height: 19px; text-align: justify; font-size: small;"><a href="http://bama.ua.edu/%7Esprentic/101%20Baumeister%20et%20al.%202007-self%20control.pdf" rel="nofollow" style="color: #6a8a6b; text-decoration: underline;">pdf</a> later, but for now titrating a sweet food or drink seems like a cool willpower-boosting trick (I find that when I play beach volleyball for hours, I do better if I can have some chocolate, soda, or banana between games, but that's probably helping with the more obvious muscle glycogen depletion).<br> </span></span></p>
 
 ]]></content>
   </entry>
