@@ -4,7 +4,7 @@
   <title><![CDATA[Category: science | Science & Fun - Jonathan Graehl]]></title>
   <link href="http://graehl.org/?tag=science/atom.xml" rel="self"/>
   <link href="http://graehl.org/"/>
-  <updated>2013-07-05T16:42:18-07:00</updated>
+  <updated>2013-07-22T12:59:58-07:00</updated>
   <id>http://graehl.org/</id>
   <author>
     <name><![CDATA[Jonathan Graehl]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Alcohol Abstinence Apologetics]]></title>
+    <link href="http://graehl.org/2013/07/22/alcohol-abstinence-apologetics/"/>
+    <updated>2013-07-22T12:39:00-07:00</updated>
+    <id>http://graehl.org/2013/07/22/alcohol-abstinence-apologetics</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s been known for a few years that people who drink alcohol tend to live longer (and are more physically active) than non-drinkers (except for extremely heavy drinkers). This is obviously surprising, but might just be a good example of the risks in interpreting epidemiological (population trait correlation) data, or as the chestnut goes, &ldquo;correlation does not imply causation&rdquo;. (See discussion on <a href="http://skeptics.stackexchange.com/questions/1059/is-alcohol-beneficial-in-small-amounts">skeptics.stackexchange</a> and my <a href="http://graehl.org/tag/alcohol">previous clashes</a> with this odd association).</p>
+
+<p>A new <a href="http://www.colorado.edu/news/releases/2013/07/18/cu-study-illuminates-mortality-differences-between-nondrinkers-and-light">CU analysis</a> slices non-drinkers-now by past-heavy-drinking vs. not, and finds that the never-heavy-drinking non-drinkers are equally healthy to light-drinkers-now. <img class="right <a" src="href="http://images.politico.com/global/2012/08/120821_obama_beer_605_reut.jpg">http://images.politico.com/global/2012/08/120821_obama_beer_605_reut.jpg</a>" width="605" height="328" title="Obama&rsquo;s light drinking" >. This doesn&rsquo;t exactly seem fair given that they don&rsquo;t slice light-drinkers-now in the same way (so they don&rsquo;t really prove absence of benefit from light drinking), but I think that coupled with the lack of a plausible mechanism (hormesis? feeling less stressed or more rewarded by social encounters while buzzed?), you may as well act as though being the least drunk you can get away with, socially, is the healthiest choice.</p>
+
+<p>It&rsquo;s easy to imagine plausible factors that &ldquo;explain away&rdquo; the advantage of light/moderate drinkers over non; it&rsquo;s nice that these Colorado U. folks found one that could be tested against existing survey data. Some others: sick people tend to stop drinking alcohol (medication interactions, or just wanting to sleep well and avoiding painful hangovers), people who are more social and active tend to drink w/ friends (people who have good encounters with friends are healthier, causality probably in both directions), extremely poor people may avoid alcohol in favor of necessities, etc.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Delusional Self-Esteem vs. Social Isolation]]></title>
@@ -125,27 +138,6 @@ environment.</p>
 
 
 <div>I'm still prepared to accept that, for whatever reason, red meat intake is correlated with (even causes) a large increase in mortality (heart disease and colon cancer if I recall correctly). But is the saturated fat the culprit? And the type of diet fed to beef makes a difference in the lipids we consume (feed them with omega 6 or trans fats and it would be understandably unhealthy to eat). But pros were wrong about cholesterol (lowering it with statins is harmful) and vegetable oil.</div>
-
-
-<p></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[bone broth has (some) lead]]></title>
-    <link href="http://graehl.org/2013/02/27/bone-broth-has-some-lead/"/>
-    <updated>2013-02-27T17:52:37-08:00</updated>
-    <id>http://graehl.org/2013/02/27/bone-broth-has-some-lead</id>
-    <content type="html"><![CDATA[<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: rgb(204,204,204); border-left-style: solid; padding-left: 1ex;">
-<span style="">bones are known to sequester the heavy metal lead, contamination with which is widespread throughout the modern environment. Such sequestered lead can then be mobilised from the bones ... </span><span style=""> </span><span style="">broth made from skin and cartilage [of already cooked chicken] </span><span style="">and chicken-bone broth, were both found to have markedly high lead concentrations, of 9.5 and 7.01 μg L</span><sup style="">−1</sup><br> </blockquote>
-
-
-<p></p>
-
-
-<p><a href="http://www.sciencedirect.com/science/article/pii/S0306987713000133">via</a><p></p></p>
-
-<div>Caveat: this is only 10x the amount in their tap water. I'm not sure if this is enough to matter, but small amounts of lead hurt IQ detectably (on a population level)</div>
 
 
 <p></p>
