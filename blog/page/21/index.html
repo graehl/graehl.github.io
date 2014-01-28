@@ -7,7 +7,7 @@
 	<meta name="author" content="Jonathan Graehl">
 
 	
-	<meta name="description" content="http://jorgeortiz85.github.com/ImplicitClassSIP.xhtml should be adopted, no matter whether Sun&#8217;s JVM optimizes temporary objects away, if only &hellip;">
+	<meta name="description" content="Python:     os.system(&#8216;cat /proc/%d/status | grep Vm&#8217; % os.getpid()) Perl:     system &#8220;cat /proc/$$/status&#8221; VmPeak is the &hellip;">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -92,6 +92,52 @@
     <article class="post">
 	<h2 class="title">
 		
+		<a href="/2009/07/29/reporting-peak-memory-used-on-program-exit-li/">
+		
+			Reporting Peak Memory Used on Program Exit (Linux)</a>
+	</h2>
+	<div class="entry-content">
+		Python: <p></p>
+
+    os.system(&#8216;cat /proc/%d/status | grep Vm&#8217; % os.getpid())<p></p>
+
+Perl:<p></p>
+
+    system &#8220;cat /proc/$$/status&#8221;<p></p>
+
+VmPeak is the peak virtual memory size, and VmHWM (high water mark) is
+the peak physical memory (RSS).  This beats polling using top - you can
+report once at the very end.
+
+		
+		
+	</div>
+
+
+<div class="meta">
+	<div class="date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-07-29T18:01:41-07:00" pubdate data-updated="true">Jul 29<span>th</span>, 2009</time></div>
+	<div class="tags">
+
+</div>
+	
+</div></article>
+
+
+    <article class="post">
+	<h2 class="title">
+		
 		<a href="/2009/07/24/scala-extension-methods-proposal/">
 		
 			Scala Extension Methods Proposal</a>
@@ -131,7 +177,7 @@
     
     <div class="center"><a href="/blog/archives">Blog Archives</a></div>
 </nav></div>
-	<footer id="footer" class="inner">Copyright &copy; 2013  <a href="https://plus.google.com/109347627243189954834?rel=publisher" title="Google+ page">feedback (Google+)</a>
+	<footer id="footer" class="inner">Copyright &copy; 2014  <a href="https://plus.google.com/109347627243189954834?rel=publisher" title="Google+ page">feedback (Google+)</a>
 
   <a href="https://plus.google.com/105878615481343708115?rel=author">Jonathan Graehl</a>
 
