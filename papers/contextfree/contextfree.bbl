@@ -1,0 +1,43 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Dijkstra}1959]{dijkstra}
+Dijkstra, E.~W.
+\newblock 1959.
+\newblock A note on two problems in connection with graphs.
+\newblock {\em Numerical Mathematics}, 1:269--271.
+
+\bibitem[\protect\citename{Graehl and Knight}2004]{TTT}
+Graehl, Jonathan and Kevin Knight.
+\newblock 2004.
+\newblock Training tree transducers.
+\newblock In {\em Proceedings of the 2004 Meeting of the North American chapter
+  of the Association for Computational Linguistics (NAACL-04)}.
+
+\bibitem[\protect\citename{Hopcroft and Ullman}1979]{hopcroft}
+Hopcroft, John and Jeffrey Ullman.
+\newblock 1979.
+\newblock {\em Introduction to Automata Theory, Languages, and Computation}.
+\newblock Addison-Wesley Series in Computer Science. Addison-Wesley, London.
+
+\bibitem[\protect\citename{Knight and Graehl}2005]{poweroftree}
+Knight, K. and J.~Graehl.
+\newblock 2005.
+\newblock An overview of probablistic tree transducers for natural language
+  processing.
+\newblock In {\em Proceedings of the Sixth International Conference on
+  Intelligent Text Processing and Computational Linguistics (CICLing)}.
+
+\bibitem[\protect\citename{Knuth}1977]{knuthgrammar}
+Knuth, D.
+\newblock 1977.
+\newblock A generalization of {Dijkstra's} algorithm.
+\newblock {\em Info. Proc. Letters}, 6(1).
+
+\bibitem[\protect\citename{Lari and Young}1990]{InsideOutside}
+Lari, K. and S.~J. Young.
+\newblock 1990.
+\newblock The estimation of stochastic context-free grammars using the
+  inside-outside algorithm.
+\newblock {\em Computer Speech and Language, 4}, pages 35--56.
+
+\end{thebibliography}
