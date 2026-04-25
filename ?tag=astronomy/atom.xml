@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: astronomy | Science & Fun - Jonathan Graehl]]></title>
-  <link href="http://graehl.org/?tag=astronomy/atom.xml" rel="self"/>
-  <link href="http://graehl.org/"/>
+  <link href="https://graehl.org/?tag=astronomy/atom.xml" rel="self"/>
+  <link href="https://graehl.org/"/>
   <updated>2014-01-28T11:26:48-08:00</updated>
-  <id>http://graehl.org/</id>
+  <id>https://graehl.org/</id>
   <author>
     <name><![CDATA[Jonathan Graehl]]></name>
     <email><![CDATA[graehl@gmail.com]]></email>
@@ -15,14 +15,14 @@
   
   <entry>
     <title type="html"><![CDATA[you are here]]></title>
-    <link href="http://graehl.org/2012/01/10/you-are-here/"/>
+    <link href="https://graehl.org/2012/01/10/you-are-here/"/>
     <updated>2012-01-10T12:02:00-08:00</updated>
-    <id>http://graehl.org/2012/01/10/you-are-here</id>
+    <id>https://graehl.org/2012/01/10/you-are-here</id>
     <content type="html"><![CDATA[<p></p>
 
 
 <div class="p_embed p_image_embed">
-<img alt="Sun-from-voyager" src="http://graehl.org/images/2012/01/10/you-are-here/36588545-sun-from-voyager.jpg">
+<img alt="Sun-from-voyager" src="https://graehl.org/images/2012/01/10/you-are-here/36588545-sun-from-voyager.jpg">
 </div>
 
 

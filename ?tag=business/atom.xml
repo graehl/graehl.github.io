@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: business | Science & Fun - Jonathan Graehl]]></title>
-  <link href="http://graehl.org/?tag=business/atom.xml" rel="self"/>
-  <link href="http://graehl.org/"/>
+  <link href="https://graehl.org/?tag=business/atom.xml" rel="self"/>
+  <link href="https://graehl.org/"/>
   <updated>2014-01-28T11:26:48-08:00</updated>
-  <id>http://graehl.org/</id>
+  <id>https://graehl.org/</id>
   <author>
     <name><![CDATA[Jonathan Graehl]]></name>
     <email><![CDATA[graehl@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[hill-climbing]]></title>
-    <link href="http://graehl.org/2012/10/19/hill-climbing/"/>
+    <link href="https://graehl.org/2012/10/19/hill-climbing/"/>
     <updated>2012-10-19T17:58:20-07:00</updated>
-    <id>http://graehl.org/2012/10/19/hill-climbing</id>
+    <id>https://graehl.org/2012/10/19/hill-climbing</id>
     <content type="html"><![CDATA[<div class="p_embed p_file_embed">
 <a href=""><div class="p_icon"></div>
 <div class="p_text">2012-09 ACMRecSysNR.pdf</div>

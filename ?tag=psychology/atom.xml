@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: psychology, | Science & Fun - Jonathan Graehl]]></title>
-  <link href="http://graehl.org/?tag=psychology/atom.xml" rel="self"/>
-  <link href="http://graehl.org/"/>
+  <link href="https://graehl.org/?tag=psychology/atom.xml" rel="self"/>
+  <link href="https://graehl.org/"/>
   <updated>2014-01-28T11:26:48-08:00</updated>
-  <id>http://graehl.org/</id>
+  <id>https://graehl.org/</id>
   <author>
     <name><![CDATA[Jonathan Graehl]]></name>
     <email><![CDATA[graehl@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Unstoppable Momentum of Social Activism]]></title>
-    <link href="http://graehl.org/2013/06/23/the-unstoppable-momentum-of-social-activism/"/>
+    <link href="https://graehl.org/2013/06/23/the-unstoppable-momentum-of-social-activism/"/>
     <updated>2013-06-23T00:12:00-07:00</updated>
-    <id>http://graehl.org/2013/06/23/the-unstoppable-momentum-of-social-activism</id>
+    <id>https://graehl.org/2013/06/23/the-unstoppable-momentum-of-social-activism</id>
     <content type="html"><![CDATA[<p>A do-good social cause just needs a spark of preliminary social-psych lab support to inspire unkillable cargo-cult group action. The desire to be one of the good guys who (know how to) save the world, coupled with confirmation bias and social proof, means unstoppable growth for even scientifically mistaken altruistic programs (failing to enact their values, or even causing regression).</p>
 
 <p>Some examples of what we should probably (evidence suggests) NOT be doing: reducing violent entertainment or porn, telling everyone there&rsquo;s a rape culture in the U.S. which promotes rape, raising awareness that most people think black people are [insert negative racial stereotype here] and need to stop it IMMEDIATELY, telling workers that things they already do in fact constitute HARRASSMENT and are creating a HOSTILE WORKPLACE, making people identify with a group which is WRONG in any way (especially if obnoxious high-paid fly-by consultants are doing the telling). These are all, surprisingly, wrong.</p>
@@ -32,9 +32,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ambien Locks In Emotional Trauma]]></title>
-    <link href="http://graehl.org/2013/06/19/ambien-locks-in-emotional-trauma/"/>
+    <link href="https://graehl.org/2013/06/19/ambien-locks-in-emotional-trauma/"/>
     <updated>2013-06-19T23:15:00-07:00</updated>
-    <id>http://graehl.org/2013/06/19/ambien-locks-in-emotional-trauma</id>
+    <id>https://graehl.org/2013/06/19/ambien-locks-in-emotional-trauma</id>
     <content type="html"><![CDATA[<p>Study suggests that Ambien (Zolpidem) and benzos help consolidate memories of negative emotions, so the benefit of better sleep should be weighed against the risk to those suffering from depression or PTSD. Also, sleeping pills and Ambien specifically are hugely correlated with death (though it&rsquo;s not at all obvious that they cause it, beyond the rare succesful pill-suicide).</p>
 
 <p><img class="right <a" src="href="http://www.kurzweilai.net/images/ambien.png">http://www.kurzweilai.net/images/ambien.png</a>" width="273" height="415" title="ambien" ></p>

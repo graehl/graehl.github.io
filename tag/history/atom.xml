@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: history | Science & Fun - Jonathan Graehl]]></title>
-  <link href="http://graehl.org/tag/history/atom.xml" rel="self"/>
-  <link href="http://graehl.org/"/>
+  <link href="https://graehl.org/tag/history/atom.xml" rel="self"/>
+  <link href="https://graehl.org/"/>
   <updated>2014-01-28T11:26:48-08:00</updated>
-  <id>http://graehl.org/</id>
+  <id>https://graehl.org/</id>
   <author>
     <name><![CDATA[Jonathan Graehl]]></name>
     <email><![CDATA[graehl@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[modern art conspiracy]]></title>
-    <link href="http://graehl.org/2012/05/31/modern-art-conspiracy/"/>
+    <link href="https://graehl.org/2012/05/31/modern-art-conspiracy/"/>
     <updated>2012-05-31T11:57:59-07:00</updated>
-    <id>http://graehl.org/2012/05/31/modern-art-conspiracy</id>
+    <id>https://graehl.org/2012/05/31/modern-art-conspiracy</id>
     <content type="html"><![CDATA[<div>CIA's International Organisations Division promoted U.S. modern art, presumably so we'd seem cooler than the commies.</div>
 
 

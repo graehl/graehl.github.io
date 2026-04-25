@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: medicine | Science & Fun - Jonathan Graehl]]></title>
-  <link href="http://graehl.org/?tag=medicine/atom.xml" rel="self"/>
-  <link href="http://graehl.org/"/>
+  <link href="https://graehl.org/?tag=medicine/atom.xml" rel="self"/>
+  <link href="https://graehl.org/"/>
   <updated>2014-01-28T11:26:48-08:00</updated>
-  <id>http://graehl.org/</id>
+  <id>https://graehl.org/</id>
   <author>
     <name><![CDATA[Jonathan Graehl]]></name>
     <email><![CDATA[graehl@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ambien Locks In Emotional Trauma]]></title>
-    <link href="http://graehl.org/2013/06/19/ambien-locks-in-emotional-trauma/"/>
+    <link href="https://graehl.org/2013/06/19/ambien-locks-in-emotional-trauma/"/>
     <updated>2013-06-19T23:15:00-07:00</updated>
-    <id>http://graehl.org/2013/06/19/ambien-locks-in-emotional-trauma</id>
+    <id>https://graehl.org/2013/06/19/ambien-locks-in-emotional-trauma</id>
     <content type="html"><![CDATA[<p>Study suggests that Ambien (Zolpidem) and benzos help consolidate memories of negative emotions, so the benefit of better sleep should be weighed against the risk to those suffering from depression or PTSD. Also, sleeping pills and Ambien specifically are hugely correlated with death (though it&rsquo;s not at all obvious that they cause it, beyond the rare succesful pill-suicide).</p>
 
 <p><img class="right <a" src="href="http://www.kurzweilai.net/images/ambien.png">http://www.kurzweilai.net/images/ambien.png</a>" width="273" height="415" title="ambien" ></p>

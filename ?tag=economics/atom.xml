@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: economics | Science & Fun - Jonathan Graehl]]></title>
-  <link href="http://graehl.org/?tag=economics/atom.xml" rel="self"/>
-  <link href="http://graehl.org/"/>
+  <link href="https://graehl.org/?tag=economics/atom.xml" rel="self"/>
+  <link href="https://graehl.org/"/>
   <updated>2014-01-28T11:26:48-08:00</updated>
-  <id>http://graehl.org/</id>
+  <id>https://graehl.org/</id>
   <author>
     <name><![CDATA[Jonathan Graehl]]></name>
     <email><![CDATA[graehl@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[If All Goes Well]]></title>
-    <link href="http://graehl.org/2013/06/22/if-all-goes-well/"/>
+    <link href="https://graehl.org/2013/06/22/if-all-goes-well/"/>
     <updated>2013-06-22T16:23:00-07:00</updated>
-    <id>http://graehl.org/2013/06/22/if-all-goes-well</id>
+    <id>https://graehl.org/2013/06/22/if-all-goes-well</id>
     <content type="html"><![CDATA[<p>Why are so many people not working? How are they entertaining themselves?</p>
 
 <p>If robots and computer programs and solar panels and industrial farming can keep billions fed for thousands of years (fingers crossed &ndash; it really depends on discoveries yet to be made, and the only guarantee is to actually <em>make</em> those discoveries, which may nto be possible), then most of us may as well just spend all day enjoying pleasant conversation, dance, sport, music, cuisine, sex. Or more realistically, video games and cheetos and internet faux-activism outrage porn, with a side of actual porn.</p>
@@ -34,16 +34,16 @@
   
   <entry>
     <title type="html"><![CDATA[marginal income tax rate over 100%]]></title>
-    <link href="http://graehl.org/2012/12/02/marginal-income-tax-rate-over-100/"/>
+    <link href="https://graehl.org/2012/12/02/marginal-income-tax-rate-over-100/"/>
     <updated>2012-12-02T11:46:52-08:00</updated>
-    <id>http://graehl.org/2012/12/02/marginal-income-tax-rate-over-100</id>
+    <id>https://graehl.org/2012/12/02/marginal-income-tax-rate-over-100</id>
     <content type="html"><![CDATA[<div>Pennsylvania poor may be sitting on the edge of marginal income tax rates of infinity percent. The state should at least make sure that getting a raise doesn't result in lower net pay. You can expect locally-optimizing welfare recipients to stay at the edge of one of the cliffs (undeclared income is a way out, but won't reduce payments taken from the public).</div>
 
 
 <p> <p></p></p>
 
 <div class="p_embed p_image_embed">
-<img alt="Image" src="http://graehl.org/images/2012/12/02/marginal-income-tax-rate-over-100/46127632-image.png">
+<img alt="Image" src="https://graehl.org/images/2012/12/02/marginal-income-tax-rate-over-100/46127632-image.png">
 </div>
 
 
@@ -57,9 +57,9 @@
   
   <entry>
     <title type="html"><![CDATA['sending a message' costs]]></title>
-    <link href="http://graehl.org/2011/10/29/sending-a-message-costs/"/>
+    <link href="https://graehl.org/2011/10/29/sending-a-message-costs/"/>
     <updated>2011-10-29T15:13:41-07:00</updated>
-    <id>http://graehl.org/2011/10/29/sending-a-message-costs</id>
+    <id>https://graehl.org/2011/10/29/sending-a-message-costs</id>
     <content type="html"><![CDATA[<p><a href="http://www.overcomingbias.com/2011/10/bad-sound-bad-sign.html">Robin Hanson observes</a> the damage to U.S. society caused by the ease of winning punitive-damages-by-jury. We&rsquo;ve all experienced paranoid corporate hyper-protectiveness &ndash; being ordered off the field in a drizzle because you might slip on the grass and sue (sorry, our insurance contract requires this officiousness!)<p></p></p>
 
 <div>More generally, we should consider whether 'sending a message' is worth all the consequences. I wish policymakers  understood this. But 'raising awareness' usually just makes us feel good. Anyway, supposing you had a sincere-technocrat government (like Clinton's was reputed to be), there's no forum those technocrats could visit to hear sincere and competent analysis - anywhere power takes consultation becomes clogged with what amount to lobbyists, the best of them appearing to offer quality information and reasoning, indistinguishable from the virtuous impartial academics.</div>

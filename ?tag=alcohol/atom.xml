@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: alcohol | Science & Fun - Jonathan Graehl]]></title>
-  <link href="http://graehl.org/?tag=alcohol/atom.xml" rel="self"/>
-  <link href="http://graehl.org/"/>
+  <link href="https://graehl.org/?tag=alcohol/atom.xml" rel="self"/>
+  <link href="https://graehl.org/"/>
   <updated>2014-01-28T11:26:48-08:00</updated>
-  <id>http://graehl.org/</id>
+  <id>https://graehl.org/</id>
   <author>
     <name><![CDATA[Jonathan Graehl]]></name>
     <email><![CDATA[graehl@gmail.com]]></email>
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Alcohol Abstinence Apologetics]]></title>
-    <link href="http://graehl.org/2013/07/22/alcohol-abstinence-apologetics/"/>
+    <link href="https://graehl.org/2013/07/22/alcohol-abstinence-apologetics/"/>
     <updated>2013-07-22T12:39:00-07:00</updated>
-    <id>http://graehl.org/2013/07/22/alcohol-abstinence-apologetics</id>
-    <content type="html"><![CDATA[<p>It&rsquo;s been known for a few years that people who drink alcohol tend to live longer (and are more physically active) than non-drinkers (except for extremely heavy drinkers). This is obviously surprising, but might just be a good example of the risks in interpreting epidemiological (population trait correlation) data, or as the chestnut goes, &ldquo;correlation does not imply causation&rdquo;. (See discussion on <a href="http://skeptics.stackexchange.com/questions/1059/is-alcohol-beneficial-in-small-amounts">skeptics.stackexchange</a> and my <a href="http://graehl.org/tag/alcohol">previous clashes</a> with this odd association).</p>
+    <id>https://graehl.org/2013/07/22/alcohol-abstinence-apologetics</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s been known for a few years that people who drink alcohol tend to live longer (and are more physically active) than non-drinkers (except for extremely heavy drinkers). This is obviously surprising, but might just be a good example of the risks in interpreting epidemiological (population trait correlation) data, or as the chestnut goes, &ldquo;correlation does not imply causation&rdquo;. (See discussion on <a href="http://skeptics.stackexchange.com/questions/1059/is-alcohol-beneficial-in-small-amounts">skeptics.stackexchange</a> and my <a href="https://graehl.org/tag/alcohol">previous clashes</a> with this odd association).</p>
 
 <p>A new <a href="http://www.colorado.edu/news/releases/2013/07/18/cu-study-illuminates-mortality-differences-between-nondrinkers-and-light">CU analysis</a> slices non-drinkers-now by past-heavy-drinking vs. not, and finds that the never-heavy-drinking non-drinkers are equally healthy to light-drinkers-now. <img class="right <a" src="href="http://images.politico.com/global/2012/08/120821_obama_beer_605_reut.jpg">http://images.politico.com/global/2012/08/120821_obama_beer_605_reut.jpg</a>" width="605" height="328" title="Obama&rsquo;s light drinking" >. This doesn&rsquo;t exactly seem fair given that they don&rsquo;t slice light-drinkers-now in the same way (so they don&rsquo;t really prove absence of benefit from light drinking), but I think that coupled with the lack of a plausible mechanism (hormesis? feeling less stressed or more rewarded by social encounters while buzzed?), you may as well act as though being the least drunk you can get away with, socially, is the healthiest choice.</p>
 
@@ -28,9 +28,9 @@
   
   <entry>
     <title type="html"><![CDATA[changes in drinking support "moderate alcohol extends lifespan"]]></title>
-    <link href="http://graehl.org/2012/11/22/changes-in-drinking-support-moderate-alcohol/"/>
+    <link href="https://graehl.org/2012/11/22/changes-in-drinking-support-moderate-alcohol/"/>
     <updated>2012-11-22T15:44:11-08:00</updated>
-    <id>http://graehl.org/2012/11/22/changes-in-drinking-support-moderate-alcohol</id>
+    <id>https://graehl.org/2012/11/22/changes-in-drinking-support-moderate-alcohol</id>
     <content type="html"><![CDATA[<p>A large population (not randomized) <a href="http://journals.lww.com/epidem/Abstract/2004/03000/Changes_in_Alcohol_Intake_and_Mortality__A.16.aspx">study that measures naturally occurring changes in alcohol drinking habits support</a>s a years-old hypothesis that the right amount of drinking extends lifespan. Up until now, I wondered whether there was any evidence for causality at all (as opposed to: the type of people who drink a moderate amount are the ones who already were going to live longest, and if you adjust your alcohol intake to that intending to live longer, it won&rsquo;t change anything about your underlying risk of death).<p></p></p>
 
 <div>relative mortality (higher is worse) for before/after alcohol consumption (5 year interval):</div>
@@ -44,7 +44,7 @@
 <div>relative heart disease mortality for before/after:</div>
 <div>1.32 non (<div>1.4 light (1-6/wk) -&gt; non (perhaps they stopped drinking because of heart problems, though</div> <div>0.7 non-&gt;light (if you hardly drink at all, and for some reason decide to drink a little, you'll push back heart disease death by a few years)</div>
 <p></p>
-<div>(<a href="http://graehl.org/more-low-dose-alcohol-is-good-for-you">other evidence of "moderate drinking better than abstienence</a>")</div> <p></p>
+<div>(<a href="https://graehl.org/more-low-dose-alcohol-is-good-for-you">other evidence of "moderate drinking better than abstienence</a>")</div> <p></p>
 <div>
 <a href="http://squid314.livejournal.com/342696.html">via</a> (also including links to even stronger <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2549555/pdf/bmj00591-0021.pdf">wine-benefits</a> evidence (0.5 *OVERALL MORTALITY* compared to abstinence, although I'm nearly sure that one is badly confounded by socio-economic status)</div>
 </div>
@@ -55,9 +55,9 @@
   
   <entry>
     <title type="html"><![CDATA[more "low dose alcohol is good for you"]]></title>
-    <link href="http://graehl.org/2012/04/01/more-low-dose-alcohol-is-good-for-you/"/>
+    <link href="https://graehl.org/2012/04/01/more-low-dose-alcohol-is-good-for-you/"/>
     <updated>2012-04-01T13:04:00-07:00</updated>
-    <id>http://graehl.org/2012/04/01/more-low-dose-alcohol-is-good-for-you</id>
+    <id>https://graehl.org/2012/04/01/more-low-dose-alcohol-is-good-for-you</id>
     <content type="html"><![CDATA[<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: #cccccc; border-left-style: solid; padding-left: 1ex;">
 <blockquote>
 <p style="color: #222222; font-family: arial,sans-serif; font-size: 13px; background-color: #ffffff;"> <strong><a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1465-3362.2009.00153.x/full" target="_blank" style="color: #444444;">A recent meta-analysis</a></strong> found that men who drank moderate amounts of alcohol had considerably less risk (a risk ratio of 0.3) of liver cirrhosis than men who drank no alcohol.  It wasn’t clear if some forms of alcohol (e.g., wine) were more protective than others. I came across this study because <strong><a href="http://www.bmj.com/content/344/bmj.e2276?etoc=" target="_blank" style="color: #444444;">another article</a></strong> called the association “biologically implausible”, whereas I think it is highly plausible due to vast experimental literature on hormesis (animals given small amounts of poisons are healthier than animals given none).</p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: science, | Science & Fun - Jonathan Graehl]]></title>
-  <link href="http://graehl.org/?tag=science/atom.xml" rel="self"/>
-  <link href="http://graehl.org/"/>
+  <link href="https://graehl.org/?tag=science/atom.xml" rel="self"/>
+  <link href="https://graehl.org/"/>
   <updated>2014-01-28T11:26:48-08:00</updated>
-  <id>http://graehl.org/</id>
+  <id>https://graehl.org/</id>
   <author>
     <name><![CDATA[Jonathan Graehl]]></name>
     <email><![CDATA[graehl@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Better Muslim than Hindu Governance in India]]></title>
-    <link href="http://graehl.org/2013/09/03/better-muslim-than-hindu-governance-in-india/"/>
+    <link href="https://graehl.org/2013/09/03/better-muslim-than-hindu-governance-in-india/"/>
     <updated>2013-09-03T16:38:00-07:00</updated>
-    <id>http://graehl.org/2013/09/03/better-muslim-than-hindu-governance-in-india</id>
+    <id>https://graehl.org/2013/09/03/better-muslim-than-hindu-governance-in-india</id>
     <content type="html"><![CDATA[<p>Weak evidence that Indian close-election-winner being Muslim rather
 than Hindu is better for everyone (in India). Weird. My first
 rejection (hidden common cause, e.g. demographics, of electing Muslim

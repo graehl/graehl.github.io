@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: art | Science & Fun - Jonathan Graehl]]></title>
-  <link href="http://graehl.org/?tag=art/atom.xml" rel="self"/>
-  <link href="http://graehl.org/"/>
+  <link href="https://graehl.org/?tag=art/atom.xml" rel="self"/>
+  <link href="https://graehl.org/"/>
   <updated>2014-01-28T11:26:48-08:00</updated>
-  <id>http://graehl.org/</id>
+  <id>https://graehl.org/</id>
   <author>
     <name><![CDATA[Jonathan Graehl]]></name>
     <email><![CDATA[graehl@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[familiarity breeds liking]]></title>
-    <link href="http://graehl.org/2013/01/07/familiarity-breeds-liking/"/>
+    <link href="https://graehl.org/2013/01/07/familiarity-breeds-liking/"/>
     <updated>2013-01-07T18:29:00-08:00</updated>
-    <id>http://graehl.org/2013/01/07/familiarity-breeds-liking</id>
+    <id>https://graehl.org/2013/01/07/familiarity-breeds-liking</id>
     <content type="html"><![CDATA[<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: #cccccc; border-left-style: solid; padding-left: 1ex;"><em style="color: #000000; font-family: Verdana,sans-serif; font-size: 13px;">psychologist James Cutting (2003, 2006) briefly exposed undergraduate psychology students to canonical and lesser-known Impressionist paintings (the lesser-known works exposed four times as often), with the result that after exposure, subjects preferred the lesser-known works more often than did the control group. Cutting took this result to show that canon formation is a result of cultural exposure over time.</em></blockquote>
 
 
@@ -45,15 +45,15 @@
   
   <entry>
     <title type="html"><![CDATA[beautiful photos]]></title>
-    <link href="http://graehl.org/2012/07/24/beautiful-photos/"/>
+    <link href="https://graehl.org/2012/07/24/beautiful-photos/"/>
     <updated>2012-07-24T13:28:24-07:00</updated>
-    <id>http://graehl.org/2012/07/24/beautiful-photos</id>
+    <id>https://graehl.org/2012/07/24/beautiful-photos</id>
     <content type="html"><![CDATA[<p> <p></p></p>
 
 <div class="p_embed p_image_embed">
-<img alt="Wave" src="http://graehl.org/images/2012/07/24/beautiful-photos/43196536-wave.png">
-<img alt="Easily" src="http://graehl.org/images/2012/07/24/beautiful-photos/43196537-easily.jpeg">
-<img alt="Dakota" src="http://graehl.org/images/2012/07/24/beautiful-photos/43196538-dakota.jpeg">
+<img alt="Wave" src="https://graehl.org/images/2012/07/24/beautiful-photos/43196536-wave.png">
+<img alt="Easily" src="https://graehl.org/images/2012/07/24/beautiful-photos/43196537-easily.jpeg">
+<img alt="Dakota" src="https://graehl.org/images/2012/07/24/beautiful-photos/43196538-dakota.jpeg">
 </div>
 
 ]]></content>
